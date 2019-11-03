@@ -1,0 +1,1001 @@
+trip_id,starttime,stoptime,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype,gender,birthyear
+6926019,8/15/2015 18:48,8/15/2015 19:09,2764,1259,88,May St & Randolph St,38,Clark St & Lake St,Customer,,
+6829700,8/11/2015 11:04,8/11/2015 11:15,297,695,67,Sheffield Ave & Fullerton Ave,505,Winchester Ave & Elston Ave,Subscriber,Female,1987.0
+6644404,8/2/2015 14:03,8/2/2015 14:23,4326,1180,157,Lake Shore Dr & Wellington Ave,162,Damen Ave & Wellington Ave,Customer,,
+7169134,8/28/2015 16:34,8/28/2015 16:48,2474,842,51,Clark St & Randolph St,268,Lake Shore Dr & North Blvd,Subscriber,Male,1977.0
+6830763,8/11/2015 12:09,8/11/2015 12:23,2381,877,304,Broadway & Waveland Ave,294,Broadway & Berwyn Ave,Subscriber,Male,1980.0
+6920862,8/15/2015 15:27,8/15/2015 15:53,3897,1537,90,Millennium Park,211,St. Clair St & Erie St,Subscriber,Female,1993.0
+6844272,8/11/2015 21:21,8/11/2015 21:31,2632,592,58,Marshfield Ave & Cortland St,30,Ashland Ave & Augusta Blvd,Subscriber,Male,1987.0
+6810362,8/10/2015 11:19,8/10/2015 11:47,4304,1707,245,Clarendon Ave & Junior Ter,177,Theater on the Lake,Customer,,
+6637735,8/2/2015 8:50,8/2/2015 9:00,4464,603,188,Greenview Ave & Fullerton Ave,153,Southport Ave & Wellington Ave,Subscriber,Male,1983.0
+7125974,8/26/2015 10:33,8/26/2015 10:39,1497,395,81,Daley Center Plaza,74,Kingsbury St & Erie St,Subscriber,Male,1973.0
+7076575,8/23/2015 15:57,8/23/2015 16:07,1108,621,4,Burnham Harbor,338,Calumet Ave & 18th St,Customer,,
+6671729,8/3/2015 19:14,8/3/2015 19:34,4635,1149,459,Lakefront Trail & Bryn Mawr Ave,334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1979.0
+7091121,8/24/2015 12:05,8/24/2015 12:08,2243,159,241,Morgan St & Polk St,22,May St & Taylor St,Customer,,
+7116974,8/25/2015 18:04,8/25/2015 18:08,1450,223,107,Desplaines St & Jackson Blvd,36,Franklin St & Jackson Blvd,Subscriber,Male,1986.0
+6807421,8/10/2015 8:24,8/10/2015 8:48,2283,1444,135,Halsted St & 21st St,277,Ashland Ave & Grand Ave,Subscriber,Female,1984.0
+6854169,8/12/2015 13:40,8/12/2015 14:20,3956,2386,85,Michigan Ave & Oak St,50,Clark St & Congress Pkwy,Customer,,
+7141510,8/27/2015 8:36,8/27/2015 8:42,1871,379,52,Michigan Ave & Lake St,284,Michigan Ave & Jackson Blvd,Subscriber,Female,1992.0
+6633747,8/1/2015 21:08,8/1/2015 21:18,2566,628,327,Sheffield Ave & Webster Ave,289,Wells St & Concord Pl,Subscriber,Male,1986.0
+6914051,8/15/2015 11:41,8/15/2015 11:58,507,1019,88,May St & Randolph St,16,Paulina  Ave (Wood St) & North Ave,Subscriber,Male,1983.0
+7077825,8/23/2015 16:39,8/23/2015 16:50,1762,707,116,Western Ave & Winnebago Ave,258,Logan Blvd & Elston Ave,Customer,,
+7200107,8/30/2015 19:19,8/30/2015 19:27,4322,452,212,Wells St & Hubbard St,365,Halsted St & North Branch St,Subscriber,Male,1985.0
+7213776,8/31/2015 16:49,8/31/2015 16:55,3990,368,287,Franklin St & Monroe St,96,Desplaines St & Randolph St,Subscriber,Male,1988.0
+6677324,8/4/2015 7:47,8/4/2015 7:55,2358,503,145,Mies van der Rohe Way & Chestnut St,181,LaSalle St & Illinois St,Subscriber,Male,1987.0
+6994247,8/19/2015 15:50,8/19/2015 15:52,1301,148,286,Franklin St & Quincy St,174,Canal St & Madison St,Subscriber,Male,1983.0
+6659778,8/3/2015 11:03,8/3/2015 11:29,1412,1589,4,Burnham Harbor,247,Shore Drive & 55th St,Customer,,
+6860235,8/12/2015 17:39,8/12/2015 17:43,3026,238,284,Michigan Ave & Jackson Blvd,2,Buckingham Fountain,Subscriber,Female,1969.0
+6722736,8/6/2015 7:42,8/6/2015 7:54,2218,692,175,Wells St & Polk St,47,State St & Kinzie St,Subscriber,Male,1986.0
+6685832,8/4/2015 14:52,8/4/2015 14:55,1133,168,169,Canal St & Harrison St,191,Canal St & Monroe St,Customer,,
+6810358,8/10/2015 11:18,8/10/2015 11:22,392,201,226,Racine Ave & Belmont Ave,117,Wilton Ave & Belmont Ave,Subscriber,Female,1990.0
+7164928,8/28/2015 13:21,8/28/2015 13:25,1411,221,100,Orleans St & Merchandise Mart Plaza,174,Canal St & Madison St,Subscriber,Male,1978.0
+6751449,8/7/2015 13:20,8/7/2015 13:25,671,266,56,Desplaines St & Kinzie St,74,Kingsbury St & Erie St,Subscriber,Female,1984.0
+6716834,8/5/2015 19:17,8/5/2015 19:44,3685,1644,98,LaSalle St & Washington St,334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1987.0
+7184983,8/29/2015 22:34,8/29/2015 22:54,4048,1199,507,Humboldt Blvd & Armitage Ave,61,Wood St & Milwaukee Ave,Customer,,
+7098229,8/24/2015 17:34,8/24/2015 17:39,1088,278,50,Clark St & Congress Pkwy,321,Wabash Ave & 8th St,Subscriber,Male,1966.0
+7064414,8/22/2015 19:16,8/22/2015 19:23,3134,411,81,Daley Center Plaza,50,Clark St & Congress Pkwy,Customer,,
+7082240,8/23/2015 19:33,8/23/2015 19:40,4595,443,309,Leavitt St & Armitage Ave,507,Humboldt Blvd & Armitage Ave,Subscriber,Female,1987.0
+6891072,8/14/2015 8:12,8/14/2015 8:21,3229,530,287,Franklin St & Monroe St,111,Sedgwick St & Huron St,Subscriber,Male,1987.0
+7194314,8/30/2015 15:16,8/30/2015 15:39,531,1340,26,McClurg Ct & Illinois St,47,State St & Kinzie St,Customer,,
+6644217,8/2/2015 13:57,8/2/2015 14:02,490,268,272,Indiana Ave & 31st St,237,MLK Jr Dr & 29th St,Customer,,
+6846514,8/12/2015 6:53,8/12/2015 6:59,209,307,511,Albany Ave & Bloomingdale Ave,290,Kedzie Ave & Palmer Ct,Subscriber,Male,1970.0
+7137327,8/26/2015 21:10,8/26/2015 21:25,3304,919,20,Sheffield Ave & Kingsbury St,141,Clark St & Lincoln Ave,Customer,,
+6926115,8/15/2015 18:53,8/15/2015 19:05,2002,759,294,Broadway & Berwyn Ave,451,Sheridan Rd & Loyola Ave,Subscriber,Male,1977.0
+7042349,8/21/2015 20:34,8/21/2015 20:38,647,234,123,California Ave & Milwaukee Ave,504,Campbell Ave & Fullerton Ave,Subscriber,Male,1988.0
+6920381,8/15/2015 15:13,8/15/2015 16:03,4485,3009,85,Michigan Ave & Oak St,240,Sheridan Rd & Irving Park Rd,Customer,,
+6814083,8/10/2015 15:14,8/10/2015 15:34,517,1192,3,Shedd Aquarium,97,Museum Campus,Customer,,
+6997703,8/19/2015 17:33,8/19/2015 17:58,246,1501,370,Calumet Ave & 21st St,85,Michigan Ave & Oak St,Subscriber,Female,1990.0
+7135849,8/26/2015 19:17,8/26/2015 19:28,2450,659,344,Ravenswood Ave & Lawrence Ave,306,Sheridan Rd & Buena Ave,Subscriber,Male,1986.0
+6686279,8/4/2015 15:14,8/4/2015 15:38,2708,1419,40,LaSalle St & Adams St,161,Rush St & Superior St,Customer,,
+6918070,8/15/2015 13:49,8/15/2015 13:53,2839,249,341,Adler Planetarium,341,Adler Planetarium,Subscriber,Male,1963.0
+6875067,8/13/2015 12:55,8/13/2015 13:04,4087,586,164,Franklin St & Lake St,211,St. Clair St & Erie St,Subscriber,Male,1986.0
+6957917,8/17/2015 13:19,8/17/2015 13:21,4208,155,478,Rockwell St & Eastwood Ave,475,Washtenaw Ave & Lawrence Ave,Subscriber,Female,1977.0
+7072571,8/23/2015 13:23,8/23/2015 13:38,1232,871,487,California Ave & Byron St,229,Southport Ave & Roscoe St,Subscriber,Male,1978.0
+6767937,8/8/2015 9:42,8/8/2015 9:58,472,931,268,Lake Shore Dr & North Blvd,223,Clifton Ave & Armitage Ave,Subscriber,Male,1980.0
+6641162,8/2/2015 12:08,8/2/2015 12:25,1841,987,85,Michigan Ave & Oak St,35,Streeter Dr & Illinois St,Customer,,
+6618046,8/1/2015 12:21,8/1/2015 12:33,4663,722,258,Logan Blvd & Elston Ave,158,Milwaukee Ave & Wabansia Ave,Subscriber,Female,1988.0
+6867342,8/13/2015 1:26,8/13/2015 1:30,553,222,25,Michigan Ave & Pearson St,140,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1987.0
+6907003,8/14/2015 20:09,8/14/2015 20:34,1097,1491,86,Eckhart Park,259,California Ave & Francis Pl,Subscriber,Male,1985.0
+6899980,8/14/2015 15:47,8/14/2015 16:30,255,2551,458,Broadway & Thorndale Ave,177,Theater on the Lake,Customer,,
+6997354,8/19/2015 17:25,8/19/2015 17:29,778,269,59,Wabash Ave & Roosevelt Rd,273,Michigan Ave & 18th St,Subscriber,Male,1989.0
+6618487,8/1/2015 12:33,8/1/2015 12:59,821,1581,13,Wilton Ave & Diversey Pkwy,212,Wells St & Hubbard St,Customer,,
+7206862,8/31/2015 9:35,8/31/2015 9:43,2327,466,86,Eckhart Park,71,Morgan St & Lake St,Subscriber,Male,1974.0
+6852033,8/12/2015 11:41,8/12/2015 11:48,602,387,195,Columbus Dr & Randolph St,47,State St & Kinzie St,Subscriber,Male,1970.0
+7032505,8/21/2015 13:55,8/21/2015 14:07,2533,715,212,Wells St & Hubbard St,85,Michigan Ave & Oak St,Subscriber,Female,1995.0
+6835725,8/11/2015 16:16,8/11/2015 16:27,768,668,312,Clarendon Ave & Gordon Ter,13,Wilton Ave & Diversey Pkwy,Subscriber,Male,1986.0
+6902073,8/14/2015 16:57,8/14/2015 17:07,3033,554,211,St. Clair St & Erie St,74,Kingsbury St & Erie St,Subscriber,Female,1989.0
+7217317,8/31/2015 18:26,8/31/2015 18:31,3857,281,276,California Ave & North Ave,372,Humboldt Dr & Luis Munoz Marin Dr,Subscriber,Male,1971.0
+6916513,8/15/2015 12:57,8/15/2015 13:13,3606,931,96,Desplaines St & Randolph St,26,McClurg Ct & Illinois St,Subscriber,Female,1981.0
+6966196,8/17/2015 19:11,8/17/2015 19:16,444,312,13,Wilton Ave & Diversey Pkwy,127,Lincoln Ave & Fullerton Ave,Subscriber,Female,1994.0
+6993234,8/19/2015 14:56,8/19/2015 15:09,568,735,36,Franklin St & Jackson Blvd,90,Millennium Park,Customer,,
+6696976,8/4/2015 21:18,8/4/2015 21:24,4666,383,239,Western Ave & Leland Ave,472,Lincoln Ave & Winona St,Subscriber,Male,1983.0
+6736801,8/6/2015 18:05,8/6/2015 18:09,2695,270,59,Wabash Ave & Roosevelt Rd,72,Wabash Ave (State St) & 16th St,Subscriber,Male,1982.0
+6670341,8/3/2015 18:24,8/3/2015 18:49,1238,1510,329,Lake Shore Dr & Diversey Pkwy,34,Cannon Dr & Fullerton Ave,Subscriber,Male,1985.0
+6980949,8/18/2015 17:54,8/18/2015 18:10,3931,962,143,Sedgwick St & Webster Ave,114,Sheffield Ave & Addison St,Subscriber,Male,1971.0
+6664619,8/3/2015 15:31,8/3/2015 15:36,4355,302,177,Theater on the Lake,177,Theater on the Lake,Customer,,
+6890245,8/14/2015 7:41,8/14/2015 7:55,4535,838,214,Damen Ave & Grand Ave,48,Larrabee St & Kingsbury St,Subscriber,Male,1986.0
+7038164,8/21/2015 17:28,8/21/2015 17:29,2769,89,100,Orleans St & Merchandise Mart Plaza,100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1989.0
+6950570,8/17/2015 4:14,8/17/2015 4:16,604,142,49,Dearborn St & Monroe St,283,LaSalle St & Jackson Blvd,Subscriber,Male,1957.0
+7015978,8/20/2015 17:07,8/20/2015 17:14,4464,422,197,Michigan Ave & Madison St,174,Canal St & Madison St,Subscriber,Male,1969.0
+7129823,8/26/2015 15:32,8/26/2015 16:01,2005,1704,32,Racine Ave & Congress Pkwy,93,Sheffield Ave & Willow St,Subscriber,Female,1985.0
+6763014,8/7/2015 20:24,8/7/2015 20:48,2732,1391,177,Theater on the Lake,165,Clark St & Grace St,Customer,,
+7039987,8/21/2015 18:32,8/21/2015 18:37,3718,306,173,Mies van der Rohe Way & Chicago Ave,140,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1987.0
+7094357,8/24/2015 15:25,8/24/2015 15:31,1991,372,133,Kingsbury St & Kinzie St,92,Carpenter St & Huron St,Subscriber,Male,1948.0
+6653899,8/2/2015 22:21,8/2/2015 22:27,1126,379,120,Wentworth Ave & Archer Ave,170,Clinton St & 18th St,Subscriber,Female,1950.0
+7131900,8/26/2015 17:01,8/26/2015 17:12,3938,658,25,Michigan Ave & Pearson St,192,Canal St & Adams St,Subscriber,Male,1982.0
+6962311,8/17/2015 17:06,8/17/2015 17:11,882,311,109,900 W Harrison St,75,Canal St & Jackson Blvd,Subscriber,Male,1980.0
+6870611,8/13/2015 8:39,8/13/2015 8:49,4618,587,91,Clinton St & Washington Blvd,43,Michigan Ave & Washington St,Subscriber,Female,1970.0
+6662580,8/3/2015 13:39,8/3/2015 13:49,1757,591,3,Shedd Aquarium,76,Lake Shore Dr & Monroe St,Customer,,
+7192390,8/30/2015 14:04,8/30/2015 14:18,2301,809,84,Union Ave & Grand Ave,210,Ashland Ave & Division St,Subscriber,Female,1991.0
+6734277,8/6/2015 17:02,8/6/2015 17:24,3821,1307,76,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,Customer,,
+6668783,8/3/2015 17:40,8/3/2015 17:49,553,568,268,Lake Shore Dr & North Blvd,85,Michigan Ave & Oak St,Customer,,
+6993661,8/19/2015 15:19,8/19/2015 15:35,3754,970,459,Lakefront Trail & Bryn Mawr Ave,447,Glenwood Ave & Morse Ave,Subscriber,Male,1976.0
+7220970,8/31/2015 22:24,8/31/2015 22:45,3296,1260,218,Wells St & 19th St,218,Wells St & 19th St,Customer,,
+6659736,8/3/2015 11:00,8/3/2015 11:10,87,618,110,Dearborn St & Erie St,85,Michigan Ave & Oak St,Customer,,
+7120182,8/25/2015 21:24,8/25/2015 21:30,2329,388,142,McClurg Ct & Erie St,337,Clark St & Chicago Ave,Subscriber,Male,1989.0
+6620974,8/1/2015 13:39,8/1/2015 13:52,4689,773,223,Clifton Ave & Armitage Ave,223,Clifton Ave & Armitage Ave,Subscriber,Male,1981.0
+6776175,8/8/2015 14:18,8/8/2015 14:34,3145,950,36,Franklin St & Jackson Blvd,211,St. Clair St & Erie St,Customer,,
+7118869,8/25/2015 19:32,8/25/2015 19:39,3938,398,199,Wabash Ave & Grand Ave,44,State St & Randolph St,Subscriber,Female,1979.0
+6693365,8/4/2015 18:40,8/4/2015 18:50,3488,577,144,Larrabee St & Webster Ave,268,Lake Shore Dr & North Blvd,Subscriber,Male,1982.0
+6952997,8/17/2015 8:13,8/17/2015 8:17,4147,236,68,Clinton St & Tilden St,286,Franklin St & Quincy St,Subscriber,Male,1984.0
+6742875,8/7/2015 0:48,8/7/2015 1:01,1768,826,93,Sheffield Ave & Willow St,250,Ashland Ave & Wellington Ave,Subscriber,Male,1992.0
+7162829,8/28/2015 11:31,8/28/2015 11:48,3862,1000,210,Ashland Ave & Division St,173,Mies van der Rohe Way & Chicago Ave,Subscriber,Male,1989.0
+6803470,8/9/2015 21:09,8/9/2015 21:32,4214,1418,320,Loomis St & Lexington St,164,Franklin St & Lake St,Customer,,
+7076462,8/23/2015 15:53,8/23/2015 16:19,2744,1593,35,Streeter Dr & Illinois St,214,Damen Ave & Grand Ave,Customer,,
+7033073,8/21/2015 14:22,8/21/2015 14:34,2451,747,218,Wells St & 19th St,174,Canal St & Madison St,Subscriber,Male,1985.0
+6636587,8/2/2015 1:46,8/2/2015 2:03,2468,1032,302,Sheffield Ave & Wrightwood Ave,84,Union Ave & Grand Ave,Customer,,
+6666886,8/3/2015 16:56,8/3/2015 17:19,102,1391,268,Lake Shore Dr & North Blvd,24,Fairbanks Ct & Grand Ave,Customer,,
+6959139,8/17/2015 14:39,8/17/2015 14:49,3097,626,99,Lake Shore Dr & Ohio St,110,Dearborn St & Erie St,Subscriber,Female,1985.0
+6780899,8/8/2015 16:52,8/8/2015 17:17,560,1506,85,Michigan Ave & Oak St,35,Streeter Dr & Illinois St,Customer,,
+6690898,8/4/2015 17:35,8/4/2015 17:44,2140,516,320,Loomis St & Lexington St,75,Canal St & Jackson Blvd,Subscriber,Male,1976.0
+7044937,8/22/2015 6:33,8/22/2015 6:38,3527,303,172,Rush St & Cedar St,211,St. Clair St & Erie St,Subscriber,Female,1992.0
+6769649,8/8/2015 10:56,8/8/2015 11:21,3400,1471,374,Western Ave & Walton St,509,Troy St & North Ave,Customer,,
+6659193,8/3/2015 10:21,8/3/2015 10:40,4219,1143,126,Clark St & North Ave,198,Green St (Halsted St) & Madison St,Subscriber,Male,1988.0
+6762090,8/7/2015 19:38,8/7/2015 19:50,1642,680,49,Dearborn St & Monroe St,56,Desplaines St & Kinzie St,Subscriber,Female,1987.0
+7067136,8/22/2015 22:38,8/22/2015 22:46,3931,441,127,Lincoln Ave & Fullerton Ave,220,Hampden Ct & Diversey Pkwy,Subscriber,Female,1990.0
+7085478,8/24/2015 6:53,8/24/2015 6:55,1093,118,449,Clark St & Columbia Ave,432,Clark St & Lunt Ave,Subscriber,Male,1978.0
+6647209,8/2/2015 15:56,8/2/2015 16:08,3526,690,114,Sheffield Ave & Addison St,220,Hampden Ct & Diversey Pkwy,Customer,,
+7163801,8/28/2015 12:22,8/28/2015 12:57,1856,2105,26,McClurg Ct & Illinois St,76,Lake Shore Dr & Monroe St,Customer,,
+6965144,8/17/2015 18:29,8/17/2015 18:48,3288,1198,26,McClurg Ct & Illinois St,43,Michigan Ave & Washington St,Customer,,
+7144736,8/27/2015 12:38,8/27/2015 12:45,3322,446,98,LaSalle St & Washington St,133,Kingsbury St & Kinzie St,Subscriber,Male,1960.0
+6914040,8/15/2015 11:41,8/15/2015 11:56,3572,914,249,Montrose Harbor,232,Pine Grove Ave & Waveland Ave,Subscriber,Male,1982.0
+6706162,8/5/2015 12:47,8/5/2015 12:54,192,392,346,Ada St & Washington Blvd,198,Green St (Halsted St) & Madison St,Subscriber,Male,1978.0
+6970760,8/18/2015 8:42,8/18/2015 8:46,3230,264,285,Wood St & Grand Ave,119,Ashland Ave & Lake St,Subscriber,Female,1984.0
+6736113,8/6/2015 17:45,8/6/2015 17:54,2987,536,26,McClurg Ct & Illinois St,76,Lake Shore Dr & Monroe St,Subscriber,Male,1964.0
+6984410,8/19/2015 1:08,8/19/2015 1:12,2578,240,282,Halsted St & Maxwell St,202,Halsted St & 18th St,Subscriber,Male,1984.0
+6840785,8/11/2015 18:31,8/11/2015 18:44,3301,759,3,Shedd Aquarium,2,Buckingham Fountain,Customer,,
+6681675,8/4/2015 11:13,8/4/2015 11:24,236,695,420,Ellis Ave & 55th St,419,Lake Park Ave & 53rd St,Subscriber,Female,1976.0
+6752337,8/7/2015 13:55,8/7/2015 14:24,2162,1725,268,Lake Shore Dr & North Blvd,299,Halsted St & Roscoe St,Subscriber,Male,1963.0
+7102229,8/24/2015 20:59,8/24/2015 21:04,3045,295,196,Cityfront Plaza Dr & Pioneer Ct,7,Field Blvd & South Water St,Subscriber,Male,1984.0
+7086915,8/24/2015 8:04,8/24/2015 8:15,719,709,54,Ogden Ave & Chicago Ave,107,Desplaines St & Jackson Blvd,Subscriber,Male,1987.0
+7220172,8/31/2015 20:54,8/31/2015 21:12,1591,1028,90,Millennium Park,2,Buckingham Fountain,Customer,,
+6673423,8/3/2015 20:36,8/3/2015 20:45,4394,565,255,Indiana Ave & Roosevelt Rd,4,Burnham Harbor,Subscriber,Male,1990.0
+6768458,8/8/2015 10:07,8/8/2015 10:10,3824,176,273,Michigan Ave & 18th St,72,Wabash Ave (State St) & 16th St,Subscriber,Male,1987.0
+6904953,8/14/2015 18:30,8/14/2015 19:10,4440,2403,182,Wells St & Elm St,334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1989.0
+6738794,8/6/2015 19:10,8/6/2015 19:22,523,741,98,LaSalle St & Washington St,168,Michigan Ave & 14th St,Subscriber,Male,1986.0
+7125204,8/26/2015 9:24,8/26/2015 9:32,1453,439,374,Western Ave & Walton St,210,Ashland Ave & Division St,Subscriber,Male,1988.0
+6784506,8/8/2015 19:06,8/8/2015 19:22,2728,958,35,Streeter Dr & Illinois St,76,Lake Shore Dr & Monroe St,Customer,,
+6635060,8/1/2015 22:33,8/1/2015 22:57,3730,1453,35,Streeter Dr & Illinois St,46,Wells St & Walton St,Subscriber,Male,1989.0
+7170292,8/28/2015 17:09,8/28/2015 17:16,3145,415,192,Canal St & Adams St,21,Aberdeen St & Jackson Blvd,Subscriber,Male,1987.0
+6969325,8/18/2015 7:49,8/18/2015 8:11,2457,1283,117,Wilton Ave & Belmont Ave,110,Dearborn St & Erie St,Subscriber,Male,1984.0
+6940075,8/16/2015 14:33,8/16/2015 14:56,401,1396,112,Green St & Randolph St,37,Dearborn St & Adams St,Customer,,
+7042183,8/21/2015 20:23,8/21/2015 20:41,4298,1107,116,Western Ave & Winnebago Ave,493,Western Ave & Roscoe St,Subscriber,Male,1956.0
+6894940,8/14/2015 11:44,8/14/2015 12:22,4775,2233,323,Sheridan Rd & Lawrence Ave,177,Theater on the Lake,Customer,,
+6811114,8/10/2015 12:01,8/10/2015 12:27,1815,1572,3,Shedd Aquarium,150,Fort Dearborn Dr & 31st St,Customer,,
+7064181,8/22/2015 19:04,8/22/2015 19:41,1073,2208,35,Streeter Dr & Illinois St,142,McClurg Ct & Erie St,Customer,,
+7144652,8/27/2015 12:32,8/27/2015 12:40,4143,442,212,Wells St & Hubbard St,24,Fairbanks Ct & Grand Ave,Subscriber,Female,1987.0
+6992022,8/19/2015 13:43,8/19/2015 14:12,643,1761,4,Burnham Harbor,345,Lake Park Ave & 56th St,Subscriber,Male,1980.0
+6866556,8/12/2015 22:36,8/12/2015 22:51,1823,902,182,Wells St & Elm St,50,Clark St & Congress Pkwy,Subscriber,Male,1988.0
+7041257,8/21/2015 19:31,8/21/2015 19:36,2788,337,307,Southport Ave & Clybourn Ave,60,Dayton St & North Ave,Subscriber,Male,1987.0
+6956189,8/17/2015 11:29,8/17/2015 11:39,3507,625,47,State St & Kinzie St,283,LaSalle St & Jackson Blvd,Subscriber,Male,1968.0
+6714496,8/5/2015 18:01,8/5/2015 19:45,2486,6212,268,Lake Shore Dr & North Blvd,76,Lake Shore Dr & Monroe St,Customer,,
+6778462,8/8/2015 15:33,8/8/2015 15:42,2952,534,46,Wells St & Walton St,85,Michigan Ave & Oak St,Subscriber,Female,1989.0
+6915876,8/15/2015 12:37,8/15/2015 12:48,4318,660,101,63rd St Beach,355,South Shore Dr & 67th St,Subscriber,Female,1966.0
+7075493,8/23/2015 15:19,8/23/2015 15:34,1374,921,312,Clarendon Ave & Gordon Ter,303,Broadway & Cornelia Ave,Subscriber,Male,1984.0
+6838287,8/11/2015 17:24,8/11/2015 17:45,3379,1266,192,Canal St & Adams St,268,Lake Shore Dr & North Blvd,Subscriber,Female,1991.0
+6711666,8/5/2015 16:57,8/5/2015 17:11,4540,836,191,Canal St & Monroe St,118,Sedgwick St & North Ave,Subscriber,Male,1992.0
+6980957,8/18/2015 17:54,8/18/2015 18:11,3419,992,90,Millennium Park,337,Clark St & Chicago Ave,Subscriber,Female,1976.0
+6985599,8/19/2015 7:27,8/19/2015 7:37,3341,587,77,Clinton St & Madison St,108,Halsted St & Polk St,Subscriber,Male,1986.0
+6922967,8/15/2015 16:38,8/15/2015 17:09,2926,1856,3,Shedd Aquarium,99,Lake Shore Dr & Ohio St,Customer,,
+6888636,8/14/2015 0:35,8/14/2015 0:39,2405,278,263,Rhodes Ave & 32nd St,263,Rhodes Ave & 32nd St,Subscriber,Female,1975.0
+7075068,8/23/2015 15:02,8/23/2015 15:19,1085,1037,354,Sheridan Rd & Greenleaf Ave,460,Clark St & Bryn Mawr Ave,Subscriber,Male,1982.0
+7074275,8/23/2015 14:35,8/23/2015 14:52,3334,1066,264,Stetson Ave & South Water St,53,Wells St & Erie St,Customer,,
+7130144,8/26/2015 15:53,8/26/2015 16:11,1743,1058,57,Clinton St & Roosevelt Rd,402,Shields Ave & 31st St,Subscriber,Male,1992.0
+6998216,8/19/2015 17:45,8/19/2015 17:52,619,408,50,Clark St & Congress Pkwy,59,Wabash Ave & Roosevelt Rd,Subscriber,Male,1944.0
+6857530,8/12/2015 16:27,8/12/2015 16:35,4307,459,48,Larrabee St & Kingsbury St,181,LaSalle St & Illinois St,Subscriber,Male,1971.0
+6838228,8/11/2015 17:22,8/11/2015 17:30,2902,456,52,Michigan Ave & Lake St,321,Wabash Ave & 8th St,Subscriber,Male,1982.0
+6841981,8/11/2015 19:13,8/11/2015 19:29,4275,975,232,Pine Grove Ave & Waveland Ave,154,Southport Ave & Belmont Ave,Subscriber,Male,1990.0
+6886508,8/13/2015 20:30,8/13/2015 20:51,321,1270,173,Mies van der Rohe Way & Chicago Ave,220,Hampden Ct & Diversey Pkwy,Subscriber,Female,1983.0
+6680565,8/4/2015 9:56,8/4/2015 10:17,3460,1267,177,Theater on the Lake,256,Broadway & Sheridan Rd,Subscriber,Male,1978.0
+7208800,8/31/2015 12:05,8/31/2015 12:36,2247,1876,90,Millennium Park,26,McClurg Ct & Illinois St,Customer,,
+6821359,8/10/2015 19:52,8/10/2015 20:20,2022,1647,177,Theater on the Lake,85,Michigan Ave & Oak St,Customer,,
+6886142,8/13/2015 20:10,8/13/2015 20:19,3917,563,128,Damen Ave & Chicago Ave,86,Eckhart Park,Subscriber,Male,1987.0
+6882866,8/13/2015 18:03,8/13/2015 18:35,2873,1924,268,Lake Shore Dr & North Blvd,35,Streeter Dr & Illinois St,Subscriber,Female,1982.0
+6738975,8/6/2015 19:16,8/6/2015 19:22,4268,343,283,LaSalle St & Jackson Blvd,174,Canal St & Madison St,Subscriber,Male,1967.0
+6691876,8/4/2015 17:59,8/4/2015 18:06,616,382,13,Wilton Ave & Diversey Pkwy,220,Hampden Ct & Diversey Pkwy,Subscriber,Male,1992.0
+6817329,8/10/2015 17:29,8/10/2015 17:38,4386,524,432,Clark St & Lunt Ave,451,Sheridan Rd & Loyola Ave,Subscriber,Male,1982.0
+7215138,8/31/2015 17:23,8/31/2015 17:44,4614,1248,283,LaSalle St & Jackson Blvd,237,MLK Jr Dr & 29th St,Subscriber,Male,1989.0
+6763634,8/7/2015 21:10,8/7/2015 21:15,3790,300,260,Kedzie Ave & Milwaukee Ave,501,Richmond St & Diversey Ave,Subscriber,Female,1989.0
+6718263,8/5/2015 20:17,8/5/2015 20:48,2168,1841,334,Lake Shore Dr & Belmont Ave,325,Clark St & Winnemac Ave,Customer,,
+6822327,8/10/2015 20:55,8/10/2015 20:59,269,227,69,Damen Ave & Pierce Ave,159,Claremont Ave & Hirsch St,Subscriber,Male,1986.0
+7076319,8/23/2015 15:48,8/23/2015 16:06,1328,1071,92,Carpenter St & Huron St,92,Carpenter St & Huron St,Customer,,
+6824573,8/11/2015 6:47,8/11/2015 6:56,4252,529,465,Marine Dr & Ainslie St,459,Lakefront Trail & Bryn Mawr Ave,Subscriber,Male,1970.0
+7098255,8/24/2015 17:35,8/24/2015 17:38,3494,187,69,Damen Ave & Pierce Ave,213,Leavitt St & North Ave,Subscriber,Male,1981.0
+7029008,8/21/2015 10:55,8/21/2015 11:13,3985,1052,66,Clinton St & Lake St,76,Lake Shore Dr & Monroe St,Customer,,
+7087093,8/24/2015 8:10,8/24/2015 8:12,62,135,89,Financial Pl & Congress Pkwy,89,Financial Pl & Congress Pkwy,Subscriber,Male,1975.0
+6751210,8/7/2015 13:11,8/7/2015 13:21,4834,643,74,Kingsbury St & Erie St,217,May St & Fulton St,Subscriber,Male,1984.0
+6745434,8/7/2015 8:17,8/7/2015 8:26,3337,504,36,Franklin St & Jackson Blvd,112,Green St & Randolph St,Subscriber,Male,1987.0
+6655618,8/3/2015 7:22,8/3/2015 7:31,3627,533,174,Canal St & Madison St,199,Wabash Ave & Grand Ave,Subscriber,Female,1987.0
+6861456,8/12/2015 18:13,8/12/2015 18:41,2848,1731,3,Shedd Aquarium,345,Lake Park Ave & 56th St,Subscriber,Female,1980.0
+6987791,8/19/2015 8:45,8/19/2015 8:55,2714,553,192,Canal St & Adams St,38,Clark St & Lake St,Subscriber,Female,1959.0
+6836366,8/11/2015 16:37,8/11/2015 16:45,3533,432,48,Larrabee St & Kingsbury St,20,Sheffield Ave & Kingsbury St,Subscriber,Female,1978.0
+6622204,8/1/2015 14:11,8/1/2015 14:34,3186,1395,249,Montrose Harbor,463,Clark St & Berwyn Ave,Subscriber,Female,1981.0
+6722808,8/6/2015 7:45,8/6/2015 7:50,2020,259,347,Ashland Ave & Grace St,230,Lincoln Ave & Roscoe St,Subscriber,Male,1986.0
+7081982,8/23/2015 19:20,8/23/2015 19:27,3681,451,284,Michigan Ave & Jackson Blvd,255,Indiana Ave & Roosevelt Rd,Subscriber,Female,1981.0
+6840095,8/11/2015 18:12,8/11/2015 18:18,150,395,157,Lake Shore Dr & Wellington Ave,313,Lakeview Ave & Fullerton Pkwy,Subscriber,Male,1983.0
+7221281,8/31/2015 23:09,8/31/2015 23:44,4423,2105,227,Southport Ave & Waveland Ave,305,Western Ave & Division St,Customer,,
+6847014,8/12/2015 7:22,8/12/2015 7:24,4824,118,157,Lake Shore Dr & Wellington Ave,329,Lake Shore Dr & Diversey Pkwy,Subscriber,Male,1973.0
+7001451,8/19/2015 19:49,8/19/2015 20:04,1316,917,140,Dearborn Pkwy & Delaware Pl,332,Halsted St & Diversey Pkwy,Subscriber,Male,1966.0
+6651502,8/2/2015 19:20,8/2/2015 19:39,4053,1148,337,Clark St & Chicago Ave,71,Morgan St & Lake St,Subscriber,Female,1984.0
+7095457,8/24/2015 16:18,8/24/2015 16:31,2435,787,49,Dearborn St & Monroe St,112,Green St & Randolph St,Subscriber,Male,1988.0
+6693535,8/4/2015 18:46,8/4/2015 19:07,3633,1272,161,Rush St & Superior St,210,Ashland Ave & Division St,Subscriber,Male,1990.0
+6632653,8/1/2015 20:04,8/1/2015 20:11,4787,420,471,Francisco Ave & Foster Ave,494,Kedzie Ave & Bryn Mawr Ave,Subscriber,Male,1969.0
+7063640,8/22/2015 18:42,8/22/2015 18:57,4695,860,97,Museum Campus,3,Shedd Aquarium,Customer,,
+6940729,8/16/2015 14:55,8/16/2015 14:59,3312,245,303,Broadway & Cornelia Ave,296,Broadway & Belmont Ave,Subscriber,Female,1979.0
+7137677,8/26/2015 21:45,8/26/2015 21:54,1871,530,175,Wells St & Polk St,90,Millennium Park,Subscriber,Male,1986.0
+7098453,8/24/2015 17:40,8/24/2015 17:44,3286,236,195,Columbus Dr & Randolph St,44,State St & Randolph St,Subscriber,Male,1967.0
+7126761,8/26/2015 11:50,8/26/2015 11:53,2505,223,420,Ellis Ave & 55th St,426,Ellis Ave & 60th St,Subscriber,Male,1989.0
+6649433,8/2/2015 17:34,8/2/2015 18:00,1572,1577,4,Burnham Harbor,76,Lake Shore Dr & Monroe St,Customer,,
+7059777,8/22/2015 16:32,8/22/2015 16:56,4094,1417,302,Sheffield Ave & Wrightwood Ave,140,Dearborn Pkwy & Delaware Pl,Customer,,
+7208217,8/31/2015 11:24,8/31/2015 11:39,4128,892,168,Michigan Ave & 14th St,49,Dearborn St & Monroe St,Subscriber,Female,1966.0
+7160409,8/28/2015 8:51,8/28/2015 9:06,3695,877,268,Lake Shore Dr & North Blvd,38,Clark St & Lake St,Subscriber,Male,1990.0
+7122161,8/26/2015 7:19,8/26/2015 7:22,1250,220,374,Western Ave & Walton St,376,Artesian Ave & Hubbard St,Subscriber,Male,1980.0
+7127736,8/26/2015 13:03,8/26/2015 13:17,2739,823,90,Millennium Park,3,Shedd Aquarium,Customer,,
+7020590,8/20/2015 19:35,8/20/2015 19:56,597,1288,106,State St & Pearson St,134,Peoria St & Jackson Blvd,Subscriber,Male,1968.0
+6905671,8/14/2015 18:59,8/14/2015 19:13,1749,848,214,Damen Ave & Grand Ave,216,California Ave & Division St,Subscriber,Female,1989.0
+6792344,8/9/2015 11:47,8/9/2015 11:54,1367,434,130,Damen Ave & Division St,219,Damen Ave & Cortland St,Subscriber,Male,1990.0
+6631127,8/1/2015 18:53,8/1/2015 18:59,2622,361,110,Dearborn St & Erie St,176,Clark St & Elm St,Subscriber,Male,1982.0
+7162838,8/28/2015 11:32,8/28/2015 11:48,4125,955,108,Halsted St & Polk St,43,Michigan Ave & Washington St,Subscriber,Male,1983.0
+6690346,8/4/2015 17:22,8/4/2015 17:33,1146,670,195,Columbus Dr & Randolph St,174,Canal St & Madison St,Subscriber,Female,1980.0
+7215134,8/31/2015 17:23,8/31/2015 17:30,4146,410,181,LaSalle St & Illinois St,140,Dearborn Pkwy & Delaware Pl,Subscriber,Female,1989.0
+6920932,8/15/2015 15:30,8/15/2015 16:53,4300,4989,248,Woodlawn Ave & 55th St,248,Woodlawn Ave & 55th St,Customer,,
+6895385,8/14/2015 12:09,8/14/2015 12:15,2710,358,199,Wabash Ave & Grand Ave,197,Michigan Ave & Madison St,Subscriber,Male,1962.0
+6815881,8/10/2015 16:54,8/10/2015 17:00,4730,358,340,Clark St & Wrightwood Ave,87,Racine Ave & Fullerton Ave,Subscriber,Male,1988.0
+6631163,8/1/2015 18:54,8/1/2015 19:05,3504,658,49,Dearborn St & Monroe St,66,Clinton St & Lake St,Subscriber,Female,1990.0
+6748412,8/7/2015 10:57,8/7/2015 11:09,4339,730,177,Theater on the Lake,268,Lake Shore Dr & North Blvd,Customer,,
+6784896,8/8/2015 19:22,8/8/2015 19:50,1696,1711,85,Michigan Ave & Oak St,44,State St & Randolph St,Customer,,
+6856889,8/12/2015 16:04,8/12/2015 16:11,2236,413,25,Michigan Ave & Pearson St,145,Mies van der Rohe Way & Chestnut St,Subscriber,Male,1983.0
+7181005,8/29/2015 14:38,8/29/2015 15:01,2194,1371,6,Dusable Harbor,4,Burnham Harbor,Customer,,
+7166789,8/28/2015 15:03,8/28/2015 15:21,3140,1085,287,Franklin St & Monroe St,215,Damen Ave & Madison St,Subscriber,Female,1984.0
+6769752,8/8/2015 11:00,8/8/2015 11:43,141,2613,219,Damen Ave & Cortland St,511,Albany Ave & Bloomingdale Ave,Customer,,
+6627381,8/1/2015 16:39,8/1/2015 16:44,640,304,364,Larrabee St & Oak St,291,Wells St & Evergreen Ave,Subscriber,Male,1989.0
+6950717,8/17/2015 5:52,8/17/2015 5:55,4379,178,304,Broadway & Waveland Ave,114,Sheffield Ave & Addison St,Subscriber,Male,1966.0
+6618415,8/1/2015 12:31,8/1/2015 12:58,3020,1603,157,Lake Shore Dr & Wellington Ave,34,Cannon Dr & Fullerton Ave,Customer,,
+6926120,8/15/2015 18:53,8/15/2015 19:18,2264,1531,2,Buckingham Fountain,341,Adler Planetarium,Customer,,
+6736042,8/6/2015 17:43,8/6/2015 18:02,748,1125,85,Michigan Ave & Oak St,223,Clifton Ave & Armitage Ave,Subscriber,Male,1974.0
+6958827,8/17/2015 14:19,8/17/2015 14:30,601,667,127,Lincoln Ave & Fullerton Ave,313,Lakeview Ave & Fullerton Pkwy,Customer,,
+7070593,8/23/2015 11:28,8/23/2015 11:34,421,337,176,Clark St & Elm St,106,State St & Pearson St,Subscriber,Male,1989.0
+6616630,8/1/2015 11:37,8/1/2015 12:30,3649,3157,118,Sedgwick St & North Ave,52,Michigan Ave & Lake St,Customer,,
+7172848,8/28/2015 18:40,8/28/2015 18:48,2078,485,229,Southport Ave & Roscoe St,292,Southport Ave & Clark St,Subscriber,Male,1981.0
+6688569,8/4/2015 16:43,8/4/2015 17:03,2636,1229,90,Millennium Park,68,Clinton St & Tilden St,Subscriber,Female,1991.0
+6861726,8/12/2015 18:20,8/12/2015 18:25,3960,302,28,Larrabee St & Menomonee St,118,Sedgwick St & North Ave,Subscriber,Male,1980.0
+6738269,8/6/2015 18:50,8/6/2015 18:57,730,476,214,Damen Ave & Grand Ave,183,Damen Ave & Augusta Blvd,Subscriber,Male,1982.0
+6918255,8/15/2015 13:54,8/15/2015 14:01,3137,411,112,Green St & Randolph St,134,Peoria St & Jackson Blvd,Subscriber,Male,1971.0
+6972762,8/18/2015 10:57,8/18/2015 11:15,2773,1064,87,Racine Ave & Fullerton Ave,210,Ashland Ave & Division St,Subscriber,Female,1992.0
+6978399,8/18/2015 16:45,8/18/2015 16:55,1810,588,21,Aberdeen St & Jackson Blvd,119,Ashland Ave & Lake St,Customer,,
+6817014,8/10/2015 17:22,8/10/2015 17:40,2032,1102,175,Wells St & Polk St,110,Dearborn St & Erie St,Subscriber,Male,1961.0
+6808633,8/10/2015 9:10,8/10/2015 9:48,1561,2237,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,,
+6903198,8/14/2015 17:27,8/14/2015 17:43,2681,1013,219,Damen Ave & Cortland St,332,Halsted St & Diversey Pkwy,Subscriber,Female,1986.0
+6632320,8/1/2015 19:48,8/1/2015 20:15,3732,1629,76,Lake Shore Dr & Monroe St,26,McClurg Ct & Illinois St,Subscriber,Male,1991.0
+6754757,8/7/2015 15:31,8/7/2015 15:56,854,1506,257,Lincoln Ave & Waveland Ave,318,Southport Ave & Irving Park Rd,Subscriber,Male,1974.0
+7111720,8/25/2015 14:33,8/25/2015 14:56,4211,1372,249,Montrose Harbor,249,Montrose Harbor,Customer,,
+7150730,8/27/2015 17:24,8/27/2015 17:43,3345,1151,48,Larrabee St & Kingsbury St,340,Clark St & Wrightwood Ave,Subscriber,Male,1986.0
+6995790,8/19/2015 16:49,8/19/2015 17:22,3487,1967,76,Lake Shore Dr & Monroe St,195,Columbus Dr & Randolph St,Customer,,
+6634367,8/1/2015 21:48,8/1/2015 22:12,4107,1398,284,Michigan Ave & Jackson Blvd,301,Clark St & Schiller St,Subscriber,Female,1983.0
+7128017,8/26/2015 13:23,8/26/2015 13:37,2589,848,35,Streeter Dr & Illinois St,4,Burnham Harbor,Subscriber,Female,1963.0
+6784593,8/8/2015 19:09,8/8/2015 19:25,1422,933,277,Ashland Ave & Grand Ave,130,Damen Ave & Division St,Customer,,
+7082379,8/23/2015 19:39,8/23/2015 20:29,1496,2986,254,Pine Grove Ave & Irving Park Rd,254,Pine Grove Ave & Irving Park Rd,Customer,,
+6904619,8/14/2015 18:16,8/14/2015 18:26,4579,627,289,Wells St & Concord Pl,113,Bissell St & Armitage Ave,Customer,,
+6766436,8/8/2015 7:47,8/8/2015 8:03,1532,957,303,Broadway & Cornelia Ave,334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1989.0
+6695049,8/4/2015 19:40,8/4/2015 19:53,3122,744,301,Clark St & Schiller St,220,Hampden Ct & Diversey Pkwy,Customer,,
+6644304,8/2/2015 14:00,8/2/2015 14:17,1626,1026,382,Western Ave & Congress Pkwy,19,Loomis St & Taylor St,Customer,,
+6978207,8/18/2015 16:38,8/18/2015 16:45,4227,419,117,Wilton Ave & Belmont Ave,227,Southport Ave & Waveland Ave,Subscriber,Male,1992.0
+6677064,8/4/2015 7:37,8/4/2015 7:53,1737,945,212,Wells St & Hubbard St,288,Larrabee St & Armitage Ave,Subscriber,Male,1956.0
+6981412,8/18/2015 18:09,8/18/2015 18:14,2083,277,417,Cornell Ave & Hyde Park Blvd,247,Shore Drive & 55th St,Subscriber,Male,1988.0
+6648522,8/2/2015 16:52,8/2/2015 17:20,350,1687,198,Green St (Halsted St) & Madison St,182,Wells St & Elm St,Subscriber,Male,1975.0
+7190085,8/30/2015 12:36,8/30/2015 12:45,3338,527,61,Wood St & Milwaukee Ave,128,Damen Ave & Chicago Ave,Subscriber,Male,1986.0
+6775311,8/8/2015 13:54,8/8/2015 14:06,1521,764,51,Clark St & Randolph St,89,Financial Pl & Congress Pkwy,Customer,,
+6636434,8/2/2015 1:09,8/2/2015 1:17,4796,458,349,Halsted St & Wrightwood Ave,93,Sheffield Ave & Willow St,Customer,,
+7102752,8/24/2015 22:06,8/24/2015 22:18,4662,729,318,Southport Ave & Irving Park Rd,115,Sheffield Ave & Wellington Ave,Subscriber,Female,1986.0
+6764892,8/7/2015 23:06,8/7/2015 23:13,1260,398,313,Lakeview Ave & Fullerton Pkwy,141,Clark St & Lincoln Ave,Customer,,
+6901943,8/14/2015 16:54,8/14/2015 17:04,1683,594,243,Lincoln Ave & Leavitt St,344,Ravenswood Ave & Lawrence Ave,Subscriber,Female,1988.0
+6867134,8/13/2015 0:00,8/13/2015 0:19,4368,1149,85,Michigan Ave & Oak St,255,Indiana Ave & Roosevelt Rd,Customer,,
+7067499,8/22/2015 23:19,8/22/2015 23:30,1884,687,35,Streeter Dr & Illinois St,199,Wabash Ave & Grand Ave,Customer,,
+6893201,8/14/2015 9:51,8/14/2015 11:40,1845,6538,85,Michigan Ave & Oak St,85,Michigan Ave & Oak St,Customer,,
+6875543,8/13/2015 13:20,8/13/2015 13:46,3747,1568,264,Stetson Ave & South Water St,161,Rush St & Superior St,Customer,,
+7068769,8/23/2015 7:16,8/23/2015 7:37,3805,1273,224,Halsted St & Willow St,52,Michigan Ave & Lake St,Subscriber,Male,1989.0
+6738587,8/6/2015 19:02,8/6/2015 19:12,1299,575,211,St. Clair St & Erie St,74,Kingsbury St & Erie St,Subscriber,Female,1989.0
+7103365,8/25/2015 5:05,8/25/2015 5:15,4756,579,220,Hampden Ct & Diversey Pkwy,327,Sheffield Ave & Webster Ave,Subscriber,Female,1995.0
+6895197,8/14/2015 11:59,8/14/2015 12:07,2323,492,341,Adler Planetarium,97,Museum Campus,Customer,,
+6889147,8/14/2015 6:23,8/14/2015 6:40,4266,1017,137,Morgan Ave & 14th Pl,53,Wells St & Erie St,Subscriber,Male,1976.0
+6690968,8/4/2015 17:37,8/4/2015 17:51,2865,837,75,Canal St & Jackson Blvd,273,Michigan Ave & 18th St,Subscriber,Male,1990.0
+7006399,8/20/2015 8:16,8/20/2015 8:25,795,516,288,Larrabee St & Armitage Ave,364,Larrabee St & Oak St,Subscriber,Female,1991.0
+7211689,8/31/2015 15:17,8/31/2015 15:19,1056,139,332,Halsted St & Diversey Pkwy,13,Wilton Ave & Diversey Pkwy,Subscriber,Male,1974.0
+6816123,8/10/2015 17:02,8/10/2015 17:18,754,982,261,Hermitage Ave & Polk St,77,Clinton St & Madison St,Subscriber,Male,1954.0
+6875376,8/13/2015 13:11,8/13/2015 13:22,4102,671,43,Michigan Ave & Washington St,80,Aberdeen St & Monroe St (Madison St),Subscriber,Male,1957.0
+6827499,8/11/2015 8:44,8/11/2015 9:03,298,1127,128,Damen Ave & Chicago Ave,176,Clark St & Elm St,Subscriber,Female,1983.0
+6863245,8/12/2015 19:13,8/12/2015 19:31,1504,1059,2,Buckingham Fountain,181,LaSalle St & Illinois St,Customer,,
+7176774,8/29/2015 8:50,8/29/2015 9:02,1270,719,338,Calumet Ave & 18th St,37,Dearborn St & Adams St,Subscriber,Male,1982.0
+6663405,8/3/2015 14:24,8/3/2015 14:40,2946,920,351,Cottage Grove Ave & 51st St,149,Calumet Ave & 33rd St,Subscriber,Male,1991.0
+6703701,8/5/2015 10:01,8/5/2015 10:25,2161,1442,258,Logan Blvd & Elston Ave,85,Michigan Ave & Oak St,Subscriber,Male,1979.0
+7129876,8/26/2015 15:37,8/26/2015 15:49,4467,756,172,Rush St & Cedar St,85,Michigan Ave & Oak St,Customer,,
+6934542,8/16/2015 11:19,8/16/2015 11:33,1897,839,268,Lake Shore Dr & North Blvd,27,Larrabee St & North Ave,Subscriber,Male,1952.0
+7191790,8/30/2015 13:41,8/30/2015 14:11,4475,1761,113,Bissell St & Armitage Ave,34,Cannon Dr & Fullerton Ave,Customer,,
+6638077,8/2/2015 9:24,8/2/2015 9:26,1198,105,158,Milwaukee Ave & Wabansia Ave,213,Leavitt St & North Ave,Subscriber,Male,1978.0
+7060649,8/22/2015 17:01,8/22/2015 17:20,3821,1127,255,Indiana Ave & Roosevelt Rd,26,McClurg Ct & Illinois St,Customer,,
+6692996,8/4/2015 18:29,8/4/2015 18:48,174,1085,254,Pine Grove Ave & Irving Park Rd,330,Lincoln Ave & Addison St,Subscriber,Male,1960.0
+6736712,8/6/2015 18:02,8/6/2015 18:25,2101,1379,145,Mies van der Rohe Way & Chestnut St,59,Wabash Ave & Roosevelt Rd,Customer,,
+7160085,8/28/2015 8:39,8/28/2015 8:48,1089,546,182,Wells St & Elm St,66,Clinton St & Lake St,Subscriber,Male,1980.0
+6645720,8/2/2015 14:45,8/2/2015 14:49,487,269,190,Southport Ave & Wrightwood Ave,307,Southport Ave & Clybourn Ave,Subscriber,Male,1990.0
+7042908,8/21/2015 21:13,8/21/2015 21:30,960,1043,49,Dearborn St & Monroe St,140,Dearborn Pkwy & Delaware Pl,Customer,,
+6720721,8/6/2015 0:02,8/6/2015 0:10,3284,457,99,Lake Shore Dr & Ohio St,172,Rush St & Cedar St,Subscriber,Male,1994.0
+6981386,8/18/2015 18:08,8/18/2015 18:16,3190,487,73,Jefferson St & Monroe St,54,Ogden Ave & Chicago Ave,Subscriber,Male,1989.0
+7183166,8/29/2015 17:46,8/29/2015 18:03,809,1020,99,Lake Shore Dr & Ohio St,289,Wells St & Concord Pl,Subscriber,Male,1971.0
+6722091,8/6/2015 7:17,8/6/2015 7:31,4801,800,59,Wabash Ave & Roosevelt Rd,100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1991.0
+6850059,8/12/2015 9:23,8/12/2015 9:27,665,205,313,Lakeview Ave & Fullerton Pkwy,220,Hampden Ct & Diversey Pkwy,Subscriber,Male,1986.0
+7163074,8/28/2015 11:46,8/28/2015 12:28,1352,2561,71,Morgan St & Lake St,186,Ogden Ave & Race Ave,Subscriber,Female,1980.0
+6715787,8/5/2015 18:40,8/5/2015 18:56,2957,970,463,Clark St & Berwyn Ave,243,Lincoln Ave & Leavitt St,Subscriber,Female,1981.0
+7020805,8/20/2015 19:47,8/20/2015 21:04,495,4637,99,Lake Shore Dr & Ohio St,99,Lake Shore Dr & Ohio St,Customer,,
+6624015,8/1/2015 15:01,8/1/2015 15:30,1120,1719,85,Michigan Ave & Oak St,142,McClurg Ct & Erie St,Customer,,
+6780018,8/8/2015 16:24,8/8/2015 16:38,3893,837,220,Hampden Ct & Diversey Pkwy,303,Broadway & Cornelia Ave,Subscriber,Female,1968.0
+6842006,8/11/2015 19:14,8/11/2015 19:24,3640,567,287,Franklin St & Monroe St,59,Wabash Ave & Roosevelt Rd,Subscriber,Male,1983.0
+7102268,8/24/2015 21:03,8/24/2015 21:47,306,2680,133,Kingsbury St & Kinzie St,316,Damen Ave & Sunnyside Ave,Subscriber,Male,1983.0
+6827645,8/11/2015 8:49,8/11/2015 9:04,327,851,74,Kingsbury St & Erie St,191,Canal St & Monroe St,Subscriber,Female,1982.0
+6996975,8/19/2015 17:15,8/19/2015 17:34,3362,1087,110,Dearborn St & Erie St,273,Michigan Ave & 18th St,Subscriber,Female,1980.0
+6616266,8/1/2015 11:25,8/1/2015 11:40,4446,917,341,Adler Planetarium,76,Lake Shore Dr & Monroe St,Customer,,
+7099129,8/24/2015 18:02,8/24/2015 18:05,627,213,37,Dearborn St & Adams St,41,Federal St & Polk St,Subscriber,Male,1968.0
+7189154,8/30/2015 11:58,8/30/2015 12:16,2956,1101,143,Sedgwick St & Webster Ave,198,Green St (Halsted St) & Madison St,Subscriber,Male,1988.0
+7107120,8/25/2015 8:57,8/25/2015 9:09,677,743,173,Mies van der Rohe Way & Chicago Ave,49,Dearborn St & Monroe St,Subscriber,Male,1949.0
+7186324,8/30/2015 8:42,8/30/2015 8:56,3209,831,252,Greenwood Ave & 47th St,179,MLK Jr Dr & Oakwood Blvd,Subscriber,Male,1979.0
+6842721,8/11/2015 19:46,8/11/2015 20:09,1856,1353,127,Lincoln Ave & Fullerton Ave,198,Green St (Halsted St) & Madison St,Customer,,
+6911219,8/15/2015 9:56,8/15/2015 10:03,1830,419,106,State St & Pearson St,24,Fairbanks Ct & Grand Ave,Subscriber,Male,1984.0
+6996137,8/19/2015 16:57,8/19/2015 18:10,1124,4429,145,Mies van der Rohe Way & Chestnut St,90,Millennium Park,Customer,,
+6959343,8/17/2015 14:52,8/17/2015 14:58,3185,363,133,Kingsbury St & Kinzie St,71,Morgan St & Lake St,Subscriber,Female,1991.0
+6955485,8/17/2015 10:34,8/17/2015 10:43,1512,526,91,Clinton St & Washington Blvd,81,Daley Center Plaza,Subscriber,Female,1972.0
+6645434,8/2/2015 14:37,8/2/2015 14:57,957,1202,131,Lincoln Ave & Belmont Ave,289,Wells St & Concord Pl,Customer,,
+7065619,8/22/2015 20:19,8/22/2015 20:42,3514,1368,325,Clark St & Winnemac Ave,220,Hampden Ct & Diversey Pkwy,Subscriber,Male,1981.0
+7183201,8/29/2015 17:49,8/29/2015 18:31,2066,2534,169,Canal St & Harrison St,255,Indiana Ave & Roosevelt Rd,Customer,,
+6757773,8/7/2015 17:07,8/7/2015 17:18,1058,697,117,Wilton Ave & Belmont Ave,154,Southport Ave & Belmont Ave,Subscriber,Female,1955.0
+6991228,8/19/2015 12:56,8/19/2015 13:00,2437,291,31,Franklin St & Chicago Ave,106,State St & Pearson St,Subscriber,Female,1983.0
+6965793,8/17/2015 18:55,8/17/2015 19:16,438,1274,48,Larrabee St & Kingsbury St,228,Damen Ave & Melrose Ave,Subscriber,Male,1979.0
+7044894,8/22/2015 6:01,8/22/2015 6:12,3230,660,153,Southport Ave & Wellington Ave,141,Clark St & Lincoln Ave,Subscriber,Male,1990.0
+7077337,8/23/2015 16:22,8/23/2015 16:34,1271,723,128,Damen Ave & Chicago Ave,346,Ada St & Washington Blvd,Subscriber,Female,1983.0
+6713282,8/5/2015 17:33,8/5/2015 17:42,1118,567,199,Wabash Ave & Grand Ave,195,Columbus Dr & Randolph St,Subscriber,Male,1946.0
+6911290,8/15/2015 10:00,8/15/2015 10:07,2459,437,164,Franklin St & Lake St,49,Dearborn St & Monroe St,Subscriber,Male,1992.0
+6788581,8/9/2015 1:16,8/9/2015 1:38,3131,1327,43,Michigan Ave & Washington St,90,Millennium Park,Customer,,
+6969494,8/18/2015 7:55,8/18/2015 8:00,2264,265,195,Columbus Dr & Randolph St,81,Daley Center Plaza,Subscriber,Male,1971.0
+6965650,8/17/2015 18:48,8/17/2015 18:54,3082,352,157,Lake Shore Dr & Wellington Ave,34,Cannon Dr & Fullerton Ave,Subscriber,Male,1975.0
+7163526,8/28/2015 12:08,8/28/2015 12:26,3595,1089,110,Dearborn St & Erie St,192,Canal St & Adams St,Subscriber,Male,1977.0
+6736106,8/6/2015 17:45,8/6/2015 17:52,4645,430,298,Lincoln Ave & Belle Plaine Ave,308,Seeley Ave & Roscoe St,Subscriber,Male,1988.0
+7212411,8/31/2015 15:55,8/31/2015 16:00,3716,322,108,Halsted St & Polk St,19,Loomis St & Taylor St,Subscriber,Male,1996.0
+6633373,8/1/2015 20:44,8/1/2015 21:14,3619,1789,224,Halsted St & Willow St,141,Clark St & Lincoln Ave,Customer,,
+6875150,8/13/2015 12:59,8/13/2015 13:05,4398,403,195,Columbus Dr & Randolph St,284,Michigan Ave & Jackson Blvd,Customer,,
+7139352,8/27/2015 7:13,8/27/2015 7:23,3614,621,182,Wells St & Elm St,91,Clinton St & Washington Blvd,Subscriber,Male,1986.0
+6830383,8/11/2015 11:47,8/11/2015 12:34,2275,2814,85,Michigan Ave & Oak St,97,Museum Campus,Customer,,
+7161149,8/28/2015 9:33,8/28/2015 9:49,2214,938,249,Montrose Harbor,243,Lincoln Ave & Leavitt St,Subscriber,Male,1991.0
+6686278,8/4/2015 15:15,8/4/2015 15:23,2345,517,35,Streeter Dr & Illinois St,76,Lake Shore Dr & Monroe St,Customer,,
+7129351,8/26/2015 15:03,8/26/2015 15:05,4139,126,420,Ellis Ave & 55th St,423,University Ave & 57th St,Subscriber,Male,1995.0
+7049836,8/22/2015 11:49,8/22/2015 12:49,2712,3618,326,Clark St & Leland Ave,85,Michigan Ave & Oak St,Customer,,
+6912767,8/15/2015 10:58,8/15/2015 11:17,4284,1164,245,Clarendon Ave & Junior Ter,177,Theater on the Lake,Subscriber,Male,1987.0
+6996846,8/19/2015 17:13,8/19/2015 17:19,1248,397,308,Seeley Ave & Roscoe St,298,Lincoln Ave & Belle Plaine Ave,Subscriber,Female,1983.0
+6611423,8/1/2015 1:07,8/1/2015 1:14,497,437,31,Franklin St & Chicago Ave,176,Clark St & Elm St,Subscriber,Male,1980.0
+6845804,8/12/2015 2:19,8/12/2015 2:35,4737,933,374,Western Ave & Walton St,27,Larrabee St & North Ave,Subscriber,Male,1983.0
+6812216,8/10/2015 12:58,8/10/2015 13:03,3754,282,68,Clinton St & Tilden St,57,Clinton St & Roosevelt Rd,Subscriber,Male,1975.0
+7026631,8/21/2015 8:35,8/21/2015 8:50,395,887,288,Larrabee St & Armitage Ave,164,Franklin St & Lake St,Subscriber,Male,1989.0
+7129668,8/26/2015 15:24,8/26/2015 15:46,2234,1320,112,Green St & Randolph St,140,Dearborn Pkwy & Delaware Pl,Customer,,
+6887618,8/13/2015 21:57,8/13/2015 22:02,869,263,26,McClurg Ct & Illinois St,211,St. Clair St & Erie St,Subscriber,Male,1985.0
+6810053,8/10/2015 10:59,8/10/2015 11:20,1603,1280,215,Damen Ave & Madison St,174,Canal St & Madison St,Customer,,
+7218262,8/31/2015 19:02,8/31/2015 19:26,2014,1411,177,Theater on the Lake,232,Pine Grove Ave & Waveland Ave,Customer,,
+6965159,8/17/2015 18:29,8/17/2015 18:40,1508,652,86,Eckhart Park,350,Ashland Ave & Chicago Ave,Subscriber,Male,1973.0
+7092064,8/24/2015 12:59,8/24/2015 13:05,3514,346,342,Wolcott Ave & Polk St,19,Loomis St & Taylor St,Subscriber,Male,1987.0
+7135470,8/26/2015 18:56,8/26/2015 19:02,3944,332,310,Damen Ave & Charleston St,16,Paulina  Ave (Wood St) & North Ave,Subscriber,Female,1984.0
+7208546,8/31/2015 11:47,8/31/2015 11:57,3932,579,338,Calumet Ave & 18th St,341,Adler Planetarium,Subscriber,Male,1980.0
+6709103,8/5/2015 15:27,8/5/2015 15:59,4127,1963,2,Buckingham Fountain,97,Museum Campus,Customer,,
+6889598,8/14/2015 7:06,8/14/2015 7:24,4502,1053,329,Lake Shore Dr & Diversey Pkwy,220,Hampden Ct & Diversey Pkwy,Subscriber,Male,1945.0
+7061287,8/22/2015 17:22,8/22/2015 17:40,4559,1121,240,Sheridan Rd & Irving Park Rd,114,Sheffield Ave & Addison St,Subscriber,Male,1977.0
+6969949,8/18/2015 8:14,8/18/2015 8:25,235,648,247,Shore Drive & 55th St,328,Ellis Ave & 58th St,Subscriber,Male,1976.0
+6929278,8/15/2015 22:23,8/15/2015 22:42,3373,1170,308,Seeley Ave & Roscoe St,183,Damen Ave & Augusta Blvd,Subscriber,Male,1972.0
+7014926,8/20/2015 16:39,8/20/2015 16:51,1839,720,52,Michigan Ave & Lake St,175,Wells St & Polk St,Subscriber,Male,1986.0
+6852390,8/12/2015 12:02,8/12/2015 12:18,628,962,116,Western Ave & Winnebago Ave,372,Humboldt Dr & Luis Munoz Marin Dr,Subscriber,Female,1988.0
+6717658,8/5/2015 19:49,8/5/2015 20:01,890,714,296,Broadway & Belmont Ave,312,Clarendon Ave & Gordon Ter,Subscriber,Male,1987.0
+6760793,8/7/2015 18:41,8/7/2015 18:49,2645,467,344,Ravenswood Ave & Lawrence Ave,253,Clifton Ave & Lawrence Ave,Subscriber,Male,1968.0
+6911823,8/15/2015 10:21,8/15/2015 10:52,1118,1825,141,Clark St & Lincoln Ave,268,Lake Shore Dr & North Blvd,Customer,,
+7034744,8/21/2015 15:36,8/21/2015 15:46,204,653,162,Damen Ave & Wellington Ave,115,Sheffield Ave & Wellington Ave,Subscriber,Female,1977.0
+7055015,8/22/2015 14:13,8/22/2015 14:21,3091,470,232,Pine Grove Ave & Waveland Ave,254,Pine Grove Ave & Irving Park Rd,Customer,,
+7100163,8/24/2015 18:40,8/24/2015 18:57,4716,1022,88,May St & Randolph St,26,McClurg Ct & Illinois St,Subscriber,Male,1987.0
+6814786,8/10/2015 16:04,8/10/2015 16:37,4828,1992,35,Streeter Dr & Illinois St,2,Buckingham Fountain,Customer,,
+6993814,8/19/2015 15:28,8/19/2015 16:26,2567,3477,341,Adler Planetarium,341,Adler Planetarium,Customer,,
+6661002,8/3/2015 12:15,8/3/2015 12:48,3447,1969,81,Daley Center Plaza,378,California Ave & Lake St,Customer,,
+6741963,8/6/2015 22:28,8/6/2015 22:40,702,765,172,Rush St & Cedar St,145,Mies van der Rohe Way & Chestnut St,Customer,,
+7217480,8/31/2015 18:32,8/31/2015 18:42,3842,603,91,Clinton St & Washington Blvd,56,Desplaines St & Kinzie St,Subscriber,Male,1980.0
+6752106,8/7/2015 13:46,8/7/2015 14:14,4744,1682,90,Millennium Park,341,Adler Planetarium,Customer,,
+6765883,8/8/2015 3:30,8/8/2015 3:46,1375,946,53,Wells St & Erie St,307,Southport Ave & Clybourn Ave,Subscriber,Male,1987.0
+6911325,8/15/2015 10:02,8/15/2015 10:15,339,777,150,Fort Dearborn Dr & 31st St,341,Adler Planetarium,Subscriber,Male,1980.0
+7088354,8/24/2015 8:54,8/24/2015 9:03,1083,525,171,May St & Cullerton St,205,Paulina St & 18th St,Subscriber,Female,1983.0
+6955855,8/17/2015 11:02,8/17/2015 11:08,3323,332,35,Streeter Dr & Illinois St,6,Dusable Harbor,Customer,,
+6829439,8/11/2015 10:45,8/11/2015 10:54,4603,512,239,Western Ave & Leland Ave,253,Clifton Ave & Lawrence Ave,Subscriber,Male,1988.0
+6992865,8/19/2015 14:34,8/19/2015 14:48,2191,811,108,Halsted St & Polk St,342,Wolcott Ave & Polk St,Subscriber,Male,1992.0
+7217498,8/31/2015 18:33,8/31/2015 18:37,4333,228,206,Halsted St & Archer Ave,209,Normal Ave & Archer Ave,Subscriber,Male,1974.0
+6766138,8/8/2015 6:52,8/8/2015 7:02,3297,562,337,Clark St & Chicago Ave,39,Wabash Ave & Adams St,Subscriber,Male,1982.0
+7101759,8/24/2015 20:15,8/24/2015 20:19,1801,251,22,May St & Taylor St,55,Halsted St & Roosevelt Rd,Subscriber,Male,1992.0
+7114651,8/25/2015 16:58,8/25/2015 17:05,4523,405,40,LaSalle St & Adams St,174,Canal St & Madison St,Subscriber,Male,1978.0
+6907322,8/14/2015 20:28,8/14/2015 20:48,1613,1180,121,Blackstone Ave & Hyde Park Blvd,247,Shore Drive & 55th St,Customer,,
+6868311,8/13/2015 7:03,8/13/2015 7:09,4299,370,141,Clark St & Lincoln Ave,113,Bissell St & Armitage Ave,Subscriber,Male,1984.0
+7033232,8/21/2015 14:29,8/21/2015 14:41,1485,694,163,Damen Ave & Clybourn Ave,332,Halsted St & Diversey Pkwy,Subscriber,Male,1979.0
+7068081,8/23/2015 0:46,8/23/2015 1:54,1220,4089,39,Wabash Ave & Adams St,39,Wabash Ave & Adams St,Customer,,
+7183013,8/29/2015 17:28,8/29/2015 17:42,120,843,25,Michigan Ave & Pearson St,6,Dusable Harbor,Customer,,
+6840581,8/11/2015 18:25,8/11/2015 18:27,2155,153,214,Damen Ave & Grand Ave,285,Wood St & Grand Ave,Subscriber,Male,1985.0
+6655416,8/3/2015 7:11,8/3/2015 7:19,1204,491,47,State St & Kinzie St,77,Clinton St & Madison St,Subscriber,Male,1983.0
+6770375,8/8/2015 11:21,8/8/2015 11:33,3763,724,339,Emerald Ave & 31st St,178,State St & 19th St,Subscriber,Male,1985.0
+6653714,8/2/2015 22:03,8/2/2015 22:27,704,1477,321,Wabash Ave & 8th St,71,Morgan St & Lake St,Customer,,
+7196627,8/30/2015 16:49,8/30/2015 17:44,3783,3349,511,Albany Ave & Bloomingdale Ave,69,Damen Ave & Pierce Ave,Customer,,
+7018691,8/20/2015 18:21,8/20/2015 18:34,1293,811,173,Mies van der Rohe Way & Chicago Ave,192,Canal St & Adams St,Subscriber,Male,1974.0
+6792570,8/9/2015 11:58,8/9/2015 12:22,106,1436,177,Theater on the Lake,85,Michigan Ave & Oak St,Customer,,
+7200645,8/30/2015 19:51,8/30/2015 20:09,3298,1059,35,Streeter Dr & Illinois St,90,Millennium Park,Customer,,
+6806351,8/10/2015 7:42,8/10/2015 7:47,4720,297,220,Hampden Ct & Diversey Pkwy,13,Wilton Ave & Diversey Pkwy,Subscriber,Female,1984.0
+6947248,8/16/2015 19:18,8/16/2015 19:39,1271,1317,233,Sangamon St & Washington Blvd,199,Wabash Ave & Grand Ave,Customer,,
+6663464,8/3/2015 14:27,8/3/2015 15:09,2568,2507,25,Michigan Ave & Pearson St,25,Michigan Ave & Pearson St,Customer,,
+6754669,8/7/2015 15:28,8/7/2015 15:34,2941,371,36,Franklin St & Jackson Blvd,174,Canal St & Madison St,Subscriber,Male,1970.0
+6987257,8/19/2015 8:27,8/19/2015 8:33,497,403,224,Halsted St & Willow St,365,Halsted St & North Branch St,Subscriber,Male,1981.0
+6800540,8/9/2015 18:07,8/9/2015 18:33,872,1555,286,Franklin St & Quincy St,152,Lincoln Ave & Diversey Pkwy,Subscriber,Male,1985.0
+6829157,8/11/2015 10:26,8/11/2015 10:36,4378,640,91,Clinton St & Washington Blvd,196,Cityfront Plaza Dr & Pioneer Ct,Subscriber,Male,1952.0
+6737787,8/6/2015 18:33,8/6/2015 18:40,2177,401,48,Larrabee St & Kingsbury St,140,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1989.0
+7140198,8/27/2015 7:52,8/27/2015 8:37,3622,2713,177,Theater on the Lake,147,Indiana Ave & 26th St,Customer,,
+6691475,8/4/2015 17:48,8/4/2015 18:10,4114,1320,26,McClurg Ct & Illinois St,268,Lake Shore Dr & North Blvd,Customer,,
+6846493,8/12/2015 6:52,8/12/2015 7:13,3739,1258,46,Wells St & Walton St,41,Federal St & Polk St,Subscriber,Male,1959.0
+6770327,8/8/2015 11:20,8/8/2015 11:32,4681,709,212,Wells St & Hubbard St,35,Streeter Dr & Illinois St,Subscriber,Male,1975.0
+6747085,8/7/2015 9:31,8/7/2015 10:00,825,1763,299,Halsted St & Roscoe St,69,Damen Ave & Pierce Ave,Subscriber,Male,1983.0
+6963369,8/17/2015 17:31,8/17/2015 17:41,4225,551,231,Sheridan Rd & Montrose Ave,238,Ravenswood Ave & Montrose Ave,Subscriber,Male,1964.0
+6617140,8/1/2015 11:54,8/1/2015 12:09,2013,871,347,Ashland Ave & Grace St,347,Ashland Ave & Grace St,Subscriber,Male,1981.0
+6844760,8/11/2015 22:01,8/11/2015 22:21,4756,1223,249,Montrose Harbor,458,Broadway & Thorndale Ave,Customer,,
+7167040,8/28/2015 15:13,8/28/2015 15:23,14,568,437,Washtenaw Ave & 15th St,442,California Ave & 23rd Pl,Subscriber,Male,1948.0
+6891525,8/14/2015 8:28,8/14/2015 8:34,1472,353,190,Southport Ave & Wrightwood Ave,13,Wilton Ave & Diversey Pkwy,Subscriber,Male,1986.0
+6887245,8/13/2015 21:24,8/13/2015 21:32,3438,450,215,Damen Ave & Madison St,346,Ada St & Washington Blvd,Subscriber,Female,1975.0
+7109087,8/25/2015 11:28,8/25/2015 11:54,3168,1539,35,Streeter Dr & Illinois St,341,Adler Planetarium,Customer,,
+7169496,8/28/2015 16:46,8/28/2015 17:02,2151,938,486,Oakley Ave & Irving Park Rd,484,Monticello Ave & Irving Park Rd,Customer,,
+6902299,8/14/2015 17:03,8/14/2015 17:05,2975,139,29,Noble St & Milwaukee Ave,210,Ashland Ave & Division St,Subscriber,Male,1986.0
+6913674,8/15/2015 11:29,8/15/2015 11:45,126,941,133,Kingsbury St & Kinzie St,140,Dearborn Pkwy & Delaware Pl,Customer,,
+7164188,8/28/2015 12:42,8/28/2015 13:14,3413,1877,225,Halsted St & Dickens Ave,268,Lake Shore Dr & North Blvd,Customer,,
+6686233,8/4/2015 15:13,8/4/2015 15:39,1716,1574,284,Michigan Ave & Jackson Blvd,284,Michigan Ave & Jackson Blvd,Customer,,
+6883425,8/13/2015 18:20,8/13/2015 18:27,3430,409,482,Campbell Ave & Montrose Ave,238,Ravenswood Ave & Montrose Ave,Subscriber,Male,1986.0
+7097117,8/24/2015 17:08,8/24/2015 17:28,3421,1160,91,Clinton St & Washington Blvd,69,Damen Ave & Pierce Ave,Subscriber,Male,1984.0
+7068280,8/23/2015 1:41,8/23/2015 1:58,4398,998,54,Ogden Ave & Chicago Ave,372,Humboldt Dr & Luis Munoz Marin Dr,Subscriber,Male,1993.0
+6726117,8/6/2015 10:13,8/6/2015 10:55,3479,2517,134,Peoria St & Jackson Blvd,134,Peoria St & Jackson Blvd,Subscriber,Male,1966.0
+7114091,8/25/2015 16:42,8/25/2015 16:49,2471,425,39,Wabash Ave & Adams St,192,Canal St & Adams St,Subscriber,Male,1979.0
+7007592,8/20/2015 9:01,8/20/2015 9:07,122,346,66,Clinton St & Lake St,47,State St & Kinzie St,Subscriber,Male,1982.0
+6962114,8/17/2015 17:01,8/17/2015 17:09,2941,501,276,California Ave & North Ave,61,Wood St & Milwaukee Ave,Subscriber,Male,1989.0
+6782375,8/8/2015 17:42,8/8/2015 18:13,3857,1822,21,Aberdeen St & Jackson Blvd,181,LaSalle St & Illinois St,Customer,,
+7199695,8/30/2015 18:54,8/30/2015 18:58,1203,222,61,Wood St & Milwaukee Ave,158,Milwaukee Ave & Wabansia Ave,Subscriber,Male,1984.0
+7107297,8/25/2015 9:05,8/25/2015 9:14,1131,503,112,Green St & Randolph St,100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1987.0
+7048734,8/22/2015 11:10,8/22/2015 12:08,4625,3491,211,St. Clair St & Erie St,226,Racine Ave & Belmont Ave,Customer,,
+6772730,8/8/2015 12:37,8/8/2015 13:00,4279,1336,277,Ashland Ave & Grand Ave,133,Kingsbury St & Kinzie St,Customer,,
+6954306,8/17/2015 9:03,8/17/2015 9:16,3343,772,51,Clark St & Randolph St,176,Clark St & Elm St,Subscriber,Female,1981.0
+6909045,8/15/2015 6:09,8/15/2015 6:14,4785,308,341,Adler Planetarium,3,Shedd Aquarium,Subscriber,Female,1969.0
+6905381,8/14/2015 18:47,8/14/2015 19:37,359,3003,143,Sedgwick St & Webster Ave,35,Streeter Dr & Illinois St,Customer,,
+7141240,8/27/2015 8:26,8/27/2015 8:30,1039,253,233,Sangamon St & Washington Blvd,91,Clinton St & Washington Blvd,Subscriber,Male,1991.0
+6993158,8/19/2015 14:54,8/19/2015 15:07,4379,821,90,Millennium Park,192,Canal St & Adams St,Customer,,
+7050401,8/22/2015 12:06,8/22/2015 12:10,2164,232,212,Wells St & Hubbard St,199,Wabash Ave & Grand Ave,Subscriber,Male,1964.0
+7212281,8/31/2015 15:48,8/31/2015 16:02,3676,876,76,Lake Shore Dr & Monroe St,4,Burnham Harbor,Subscriber,Female,1959.0
+6959357,8/17/2015 14:53,8/17/2015 14:58,943,305,175,Wells St & Polk St,287,Franklin St & Monroe St,Subscriber,Female,1967.0
+6952395,8/17/2015 7:49,8/17/2015 8:06,3127,981,210,Ashland Ave & Division St,91,Clinton St & Washington Blvd,Subscriber,Male,1985.0
+6980026,8/18/2015 17:26,8/18/2015 17:43,2657,1022,26,McClurg Ct & Illinois St,334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1990.0
+6740519,8/6/2015 20:35,8/6/2015 21:01,1254,1576,85,Michigan Ave & Oak St,324,Stockton Dr & Wrightwood Ave,Subscriber,Male,1988.0
+6660259,8/3/2015 11:33,8/3/2015 11:55,4317,1347,274,Racine Ave & 15th St,137,Morgan Ave & 14th Pl,Subscriber,Female,1997.0
+6773587,8/8/2015 13:04,8/8/2015 13:10,519,379,349,Halsted St & Wrightwood Ave,329,Lake Shore Dr & Diversey Pkwy,Subscriber,Female,1985.0
+6960633,8/17/2015 16:08,8/17/2015 16:19,3830,613,99,Lake Shore Dr & Ohio St,2,Buckingham Fountain,Subscriber,Male,1963.0
+6651014,8/2/2015 18:56,8/2/2015 19:04,2853,479,140,Dearborn Pkwy & Delaware Pl,24,Fairbanks Ct & Grand Ave,Subscriber,Male,1989.0
+6811056,8/10/2015 11:58,8/10/2015 12:28,4712,1846,174,Canal St & Madison St,107,Desplaines St & Jackson Blvd,Customer,,
+7058659,8/22/2015 16:00,8/22/2015 16:20,4264,1209,85,Michigan Ave & Oak St,74,Kingsbury St & Erie St,Subscriber,Male,1985.0
+7212954,8/31/2015 16:19,8/31/2015 16:26,4573,406,113,Bissell St & Armitage Ave,141,Clark St & Lincoln Ave,Subscriber,Male,1980.0
+7169539,8/28/2015 16:47,8/28/2015 16:58,2489,660,287,Franklin St & Monroe St,53,Wells St & Erie St,Subscriber,Female,1970.0
+7183133,8/29/2015 17:42,8/29/2015 18:01,3818,1118,211,St. Clair St & Erie St,54,Ogden Ave & Chicago Ave,Customer,,
+7068171,8/23/2015 1:10,8/23/2015 1:39,662,1704,486,Oakley Ave & Irving Park Rd,495,Keystone Ave & Montrose Ave,Customer,,
+7011371,8/20/2015 13:31,8/20/2015 15:10,3686,5900,76,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,Customer,,
+7069126,8/23/2015 8:36,8/23/2015 8:53,4706,1039,133,Kingsbury St & Kinzie St,176,Clark St & Elm St,Customer,,
+6868477,8/13/2015 7:14,8/13/2015 7:26,2358,771,338,Calumet Ave & 18th St,90,Millennium Park,Subscriber,Female,1986.0
+7163996,8/28/2015 12:33,8/28/2015 12:42,3906,580,164,Franklin St & Lake St,91,Clinton St & Washington Blvd,Customer,,
+6774578,8/8/2015 13:33,8/8/2015 14:03,2604,1808,153,Southport Ave & Wellington Ave,58,Marshfield Ave & Cortland St,Customer,,
+7135868,8/26/2015 19:18,8/26/2015 19:23,4365,281,260,Kedzie Ave & Milwaukee Ave,501,Richmond St & Diversey Ave,Subscriber,Female,1990.0
+7118025,8/25/2015 18:46,8/25/2015 18:53,4828,421,364,Larrabee St & Oak St,186,Ogden Ave & Race Ave,Subscriber,Male,1989.0
+6807042,8/10/2015 8:09,8/10/2015 8:22,766,749,19,Loomis St & Taylor St,91,Clinton St & Washington Blvd,Subscriber,Male,1990.0
+6702745,8/5/2015 9:01,8/5/2015 9:14,2714,786,291,Wells St & Evergreen Ave,49,Dearborn St & Monroe St,Customer,,
+7176204,8/29/2015 2:08,8/29/2015 2:15,439,421,114,Sheffield Ave & Addison St,296,Broadway & Belmont Ave,Subscriber,Male,1981.0
+6662287,8/3/2015 13:24,8/3/2015 14:10,4398,2782,213,Leavitt St & North Ave,511,Albany Ave & Bloomingdale Ave,Customer,,
+6954669,8/17/2015 9:24,8/17/2015 9:41,29,1019,62,McCormick Place,282,Halsted St & Maxwell St,Subscriber,Male,1987.0
+6736157,8/6/2015 17:46,8/6/2015 17:53,37,419,192,Canal St & Adams St,100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1975.0
+7192438,8/30/2015 14:06,8/30/2015 14:11,2556,321,344,Ravenswood Ave & Lawrence Ave,316,Damen Ave & Sunnyside Ave,Subscriber,Female,1988.0
+7167351,8/28/2015 15:26,8/28/2015 15:39,2473,752,18,Wacker Dr & Washington St,176,Clark St & Elm St,Subscriber,Female,1960.0
+7104934,8/25/2015 7:41,8/25/2015 7:49,232,507,196,Cityfront Plaza Dr & Pioneer Ct,49,Dearborn St & Monroe St,Subscriber,Male,1993.0
+7048128,8/22/2015 10:48,8/22/2015 11:01,4486,751,43,Michigan Ave & Washington St,59,Wabash Ave & Roosevelt Rd,Subscriber,Female,1992.0
+6679727,8/4/2015 9:10,8/4/2015 9:20,2407,647,58,Marshfield Ave & Cortland St,327,Sheffield Ave & Webster Ave,Subscriber,Male,1968.0
+6892830,8/14/2015 9:27,8/14/2015 9:31,3948,240,49,Dearborn St & Monroe St,287,Franklin St & Monroe St,Subscriber,Male,1980.0
+7034204,8/21/2015 15:14,8/21/2015 15:41,3551,1604,268,Lake Shore Dr & North Blvd,329,Lake Shore Dr & Diversey Pkwy,Subscriber,Male,1987.0
+6763906,8/7/2015 21:35,8/7/2015 21:45,1195,610,127,Lincoln Ave & Fullerton Ave,226,Racine Ave & Belmont Ave,Subscriber,Male,1989.0
+7061442,8/22/2015 17:27,8/22/2015 17:55,3305,1710,99,Lake Shore Dr & Ohio St,268,Lake Shore Dr & North Blvd,Customer,,
+6992187,8/19/2015 13:53,8/19/2015 14:12,1724,1186,4,Burnham Harbor,150,Fort Dearborn Dr & 31st St,Customer,,
+6614186,8/1/2015 10:03,8/1/2015 10:35,4822,1939,128,Damen Ave & Chicago Ave,259,California Ave & Francis Pl,Customer,,
+6735503,8/6/2015 17:28,8/6/2015 17:40,4283,712,117,Wilton Ave & Belmont Ave,228,Damen Ave & Melrose Ave,Subscriber,Male,1981.0
+6818392,8/10/2015 17:57,8/10/2015 18:04,1347,417,217,May St & Fulton St,77,Clinton St & Madison St,Subscriber,Male,1979.0
+7212097,8/31/2015 15:38,8/31/2015 15:47,971,503,89,Financial Pl & Congress Pkwy,91,Clinton St & Washington Blvd,Subscriber,Male,1981.0
+6839706,8/11/2015 18:00,8/11/2015 18:11,4001,669,497,Kimball Ave & Belmont Ave,480,Kedzie Ave & Montrose Ave,Subscriber,Male,1988.0
+6907164,8/14/2015 20:18,8/14/2015 20:49,4136,1823,35,Streeter Dr & Illinois St,334,Lake Shore Dr & Belmont Ave,Subscriber,Female,1984.0
+7130235,8/26/2015 15:59,8/26/2015 16:19,3801,1215,3,Shedd Aquarium,286,Franklin St & Quincy St,Customer,,
+6710756,8/5/2015 16:33,8/5/2015 16:43,223,646,174,Canal St & Madison St,111,Sedgwick St & Huron St,Subscriber,Male,1958.0
+6914758,8/15/2015 12:02,8/15/2015 12:22,3052,1203,85,Michigan Ave & Oak St,35,Streeter Dr & Illinois St,Customer,,
+6827570,8/11/2015 8:47,8/11/2015 9:00,286,799,172,Rush St & Cedar St,287,Franklin St & Monroe St,Subscriber,Female,1976.0
+6942980,8/16/2015 16:15,8/16/2015 16:32,4340,1006,90,Millennium Park,107,Desplaines St & Jackson Blvd,Customer,,
+6866018,8/12/2015 21:46,8/12/2015 21:58,3163,726,190,Southport Ave & Wrightwood Ave,257,Lincoln Ave & Waveland Ave,Subscriber,Male,1989.0
+7087893,8/24/2015 8:38,8/24/2015 8:46,4556,507,77,Clinton St & Madison St,36,Franklin St & Jackson Blvd,Subscriber,Male,1963.0
+6680171,8/4/2015 9:33,8/4/2015 9:40,402,416,74,Kingsbury St & Erie St,181,LaSalle St & Illinois St,Subscriber,Female,1959.0
+6880189,8/13/2015 16:54,8/13/2015 17:07,1558,820,153,Southport Ave & Wellington Ave,118,Sedgwick St & North Ave,Subscriber,Male,1989.0
+6802239,8/9/2015 19:36,8/9/2015 20:00,47,1445,150,Fort Dearborn Dr & 31st St,76,Lake Shore Dr & Monroe St,Customer,,
+7037085,8/21/2015 16:58,8/21/2015 17:13,2819,909,355,South Shore Dr & 67th St,345,Lake Park Ave & 56th St,Subscriber,Female,1987.0
+7183210,8/29/2015 17:50,8/29/2015 18:28,544,2320,334,Lake Shore Dr & Belmont Ave,25,Michigan Ave & Pearson St,Customer,,
+6858582,8/12/2015 16:59,8/12/2015 17:04,4760,286,13,Wilton Ave & Diversey Pkwy,117,Wilton Ave & Belmont Ave,Subscriber,Male,1981.0
+6676155,8/4/2015 6:53,8/4/2015 7:02,4684,528,31,Franklin St & Chicago Ave,286,Franklin St & Quincy St,Subscriber,Male,1982.0
+6714192,8/5/2015 17:54,8/5/2015 17:59,1135,272,108,Halsted St & Polk St,282,Halsted St & Maxwell St,Subscriber,Male,1996.0
+6985537,8/19/2015 7:24,8/19/2015 7:26,705,127,256,Broadway & Sheridan Rd,240,Sheridan Rd & Irving Park Rd,Subscriber,Male,1990.0
+6633922,8/1/2015 21:21,8/1/2015 21:35,3406,829,196,Cityfront Plaza Dr & Pioneer Ct,106,State St & Pearson St,Customer,,
+7089465,8/24/2015 10:09,8/24/2015 10:13,927,221,261,Hermitage Ave & Polk St,320,Loomis St & Lexington St,Subscriber,Female,1991.0
+7176444,8/29/2015 7:36,8/29/2015 7:45,2490,579,260,Kedzie Ave & Milwaukee Ave,258,Logan Blvd & Elston Ave,Subscriber,Male,1981.0
+6953588,8/17/2015 8:33,8/17/2015 8:37,4218,244,68,Clinton St & Tilden St,174,Canal St & Madison St,Subscriber,Male,1983.0
+6817349,8/10/2015 17:30,8/10/2015 17:34,837,236,18,Wacker Dr & Washington St,192,Canal St & Adams St,Subscriber,Male,1983.0
+7124241,8/26/2015 8:36,8/26/2015 8:39,2141,169,349,Halsted St & Wrightwood Ave,340,Clark St & Wrightwood Ave,Subscriber,Female,1959.0
+7042726,8/21/2015 20:58,8/21/2015 21:08,3653,632,457,Clark St & Elmdale Ave,451,Sheridan Rd & Loyola Ave,Subscriber,Male,1987.0
+6732034,8/6/2015 15:48,8/6/2015 15:55,4074,419,365,Halsted St & North Branch St,236,Sedgwick St & Schiller St,Subscriber,Male,1962.0
+7062981,8/22/2015 18:19,8/22/2015 18:29,4407,592,299,Halsted St & Roscoe St,225,Halsted St & Dickens Ave,Subscriber,Male,1987.0
+6616452,8/1/2015 11:32,8/1/2015 11:51,2673,1171,370,Calumet Ave & 21st St,50,Clark St & Congress Pkwy,Customer,,
+7170814,8/28/2015 17:24,8/28/2015 17:39,3822,886,25,Michigan Ave & Pearson St,56,Desplaines St & Kinzie St,Subscriber,Female,1976.0
+6954561,8/17/2015 9:17,8/17/2015 9:44,2626,1602,141,Clark St & Lincoln Ave,249,Montrose Harbor,Customer,,
+6890886,8/14/2015 8:06,8/14/2015 8:12,3411,404,442,California Ave & 23rd Pl,444,Albany Ave & 26th St,Subscriber,Female,1970.0
+6907287,8/14/2015 20:26,8/14/2015 20:41,132,907,317,Wood St & Taylor St,57,Clinton St & Roosevelt Rd,Subscriber,Male,1984.0
+7157259,8/28/2015 6:04,8/28/2015 6:23,620,1156,207,Emerald Ave & 28th St,150,Fort Dearborn Dr & 31st St,Subscriber,Female,1954.0
+7167809,8/28/2015 15:45,8/28/2015 15:54,3732,553,31,Franklin St & Chicago Ave,91,Clinton St & Washington Blvd,Subscriber,Male,1965.0
+7057282,8/22/2015 15:16,8/22/2015 16:17,4747,3649,268,Lake Shore Dr & North Blvd,199,Wabash Ave & Grand Ave,Customer,,
+6902261,8/14/2015 17:02,8/14/2015 17:21,805,1136,211,St. Clair St & Erie St,77,Clinton St & Madison St,Subscriber,Male,1985.0
+6753897,8/7/2015 14:55,8/7/2015 15:50,1727,3322,327,Sheffield Ave & Webster Ave,327,Sheffield Ave & Webster Ave,Customer,,
+7057613,8/22/2015 15:27,8/22/2015 15:42,1413,918,120,Wentworth Ave & Archer Ave,5,State St & Harrison St,Subscriber,Male,1990.0
+7091089,8/24/2015 12:03,8/24/2015 12:43,3115,2399,268,Lake Shore Dr & North Blvd,142,McClurg Ct & Erie St,Customer,,
+6647823,8/2/2015 16:21,8/2/2015 16:43,2505,1334,249,Montrose Harbor,177,Theater on the Lake,Customer,,
+6959293,8/17/2015 14:50,8/17/2015 15:00,599,644,110,Dearborn St & Erie St,26,McClurg Ct & Illinois St,Customer,,
+6823016,8/10/2015 22:02,8/10/2015 22:04,2760,126,233,Sangamon St & Washington Blvd,80,Aberdeen St & Monroe St (Madison St),Subscriber,Male,1985.0
+6652446,8/2/2015 20:14,8/2/2015 20:19,2020,309,58,Marshfield Ave & Cortland St,333,Ashland Ave & Blackhawk St,Subscriber,Male,1990.0
+6889448,8/14/2015 6:53,8/14/2015 6:59,1743,345,80,Aberdeen St & Monroe St (Madison St),75,Canal St & Jackson Blvd,Subscriber,Male,1979.0
+7105712,8/25/2015 8:09,8/25/2015 8:36,892,1598,304,Broadway & Waveland Ave,264,Stetson Ave & South Water St,Subscriber,Male,1976.0
+6853004,8/12/2015 12:33,8/12/2015 12:46,447,794,16,Paulina  Ave (Wood St) & North Ave,118,Sedgwick St & North Ave,Customer,,
+6730795,8/6/2015 14:52,8/6/2015 15:16,3022,1421,59,Wabash Ave & Roosevelt Rd,97,Museum Campus,Customer,,
+7077477,8/23/2015 16:26,8/23/2015 17:08,1155,2513,334,Lake Shore Dr & Belmont Ave,177,Theater on the Lake,Customer,,
+6665363,8/3/2015 16:05,8/3/2015 16:29,3537,1456,126,Clark St & North Ave,20,Sheffield Ave & Kingsbury St,Customer,,
+7159439,8/28/2015 8:17,8/28/2015 8:28,3716,647,319,Greenview Ave & Diversey Pkwy,165,Clark St & Grace St,Subscriber,Male,1990.0
+6725564,8/6/2015 9:31,8/6/2015 9:56,4534,1504,303,Broadway & Cornelia Ave,110,Dearborn St & Erie St,Subscriber,Male,1987.0
+7146955,8/27/2015 15:06,8/27/2015 15:16,3119,622,286,Franklin St & Quincy St,140,Dearborn Pkwy & Delaware Pl,Subscriber,Male,1983.0
+6756310,8/7/2015 16:25,8/7/2015 16:36,4254,674,332,Halsted St & Diversey Pkwy,114,Sheffield Ave & Addison St,Customer,,
+7137737,8/26/2015 21:54,8/26/2015 21:58,1337,289,233,Sangamon St & Washington Blvd,77,Clinton St & Madison St,Subscriber,Female,1985.0
+7079263,8/23/2015 17:30,8/23/2015 17:34,4107,229,47,State St & Kinzie St,47,State St & Kinzie St,Customer,,
+6933680,8/16/2015 10:42,8/16/2015 11:02,1173,1205,80,Aberdeen St & Monroe St (Madison St),135,Halsted St & 21st St,Subscriber,Male,1985.0
+6648376,8/2/2015 16:46,8/2/2015 17:10,3894,1436,177,Theater on the Lake,334,Lake Shore Dr & Belmont Ave,Customer,,
+7212355,8/31/2015 15:52,8/31/2015 15:59,4765,405,286,Franklin St & Quincy St,133,Kingsbury St & Kinzie St,Subscriber,Male,1990.0
+6896115,8/14/2015 12:46,8/14/2015 12:53,2499,407,94,Clark St & Armitage Ave,113,Bissell St & Armitage Ave,Subscriber,Male,1989.0
+7127236,8/26/2015 12:26,8/26/2015 12:32,4169,373,314,Ravenswood Ave & Berteau Ave,314,Ravenswood Ave & Berteau Ave,Subscriber,Male,1985.0
+7208901,8/31/2015 12:11,8/31/2015 12:16,4350,309,90,Millennium Park,7,Field Blvd & South Water St,Subscriber,Male,1987.0
+7135965,8/26/2015 19:24,8/26/2015 19:39,3297,879,110,Dearborn St & Erie St,59,Wabash Ave & Roosevelt Rd,Subscriber,Female,1985.0
+6978030,8/18/2015 16:32,8/18/2015 16:39,4810,395,291,Wells St & Evergreen Ave,94,Clark St & Armitage Ave,Subscriber,Male,1984.0
+6680304,8/4/2015 9:41,8/4/2015 9:51,3874,627,214,Damen Ave & Grand Ave,122,Ogden Ave & Congress Pkwy,Subscriber,Male,1975.0
+7194184,8/30/2015 15:11,8/30/2015 15:41,4618,1763,94,Clark St & Armitage Ave,35,Streeter Dr & Illinois St,Customer,,
+6809567,8/10/2015 10:23,8/10/2015 10:31,4170,512,199,Wabash Ave & Grand Ave,74,Kingsbury St & Erie St,Subscriber,Female,1983.0
+7165201,8/28/2015 13:36,8/28/2015 13:37,3135,64,134,Peoria St & Jackson Blvd,134,Peoria St & Jackson Blvd,Subscriber,Male,1975.0
+6731532,8/6/2015 15:26,8/6/2015 15:30,549,214,212,Wells St & Hubbard St,53,Wells St & Erie St,Subscriber,Male,1963.0
+7053975,8/22/2015 13:46,8/22/2015 13:53,1541,419,306,Sheridan Rd & Buena Ave,299,Halsted St & Roscoe St,Subscriber,Male,1992.0
+7037435,8/21/2015 17:06,8/21/2015 17:17,4814,631,76,Lake Shore Dr & Monroe St,35,Streeter Dr & Illinois St,Customer,,
+6993710,8/19/2015 15:23,8/19/2015 15:46,2778,1353,142,McClurg Ct & Erie St,192,Canal St & Adams St,Subscriber,Male,1985.0
+6626129,8/1/2015 16:01,8/1/2015 16:12,2558,648,332,Halsted St & Diversey Pkwy,331,Halsted St & Blackhawk St,Customer,,
+7097831,8/24/2015 17:25,8/24/2015 17:46,4029,1293,457,Clark St & Elmdale Ave,257,Lincoln Ave & Waveland Ave,Subscriber,Female,1984.0
+6628955,8/1/2015 17:28,8/1/2015 17:49,2550,1250,6,Dusable Harbor,3,Shedd Aquarium,Customer,,
+6762069,8/7/2015 19:37,8/7/2015 19:50,4671,745,88,May St & Randolph St,88,May St & Randolph St,Subscriber,Female,1979.0
+6665914,8/3/2015 16:26,8/3/2015 16:45,855,1130,223,Clifton Ave & Armitage Ave,114,Sheffield Ave & Addison St,Customer,,
+6868949,8/13/2015 7:37,8/13/2015 7:47,848,598,77,Clinton St & Madison St,89,Financial Pl & Congress Pkwy,Subscriber,Male,1964.0
+7105846,8/25/2015 8:14,8/25/2015 8:24,4698,621,454,Broadway & Granville Ave,294,Broadway & Berwyn Ave,Subscriber,Male,1966.0
+7074752,8/23/2015 14:52,8/23/2015 15:28,4717,2148,76,Lake Shore Dr & Monroe St,173,Mies van der Rohe Way & Chicago Ave,Customer,,
+6882523,8/13/2015 17:52,8/13/2015 18:06,4349,842,174,Canal St & Madison St,118,Sedgwick St & North Ave,Subscriber,Male,1981.0
+7132081,8/26/2015 17:06,8/26/2015 17:21,3434,942,317,Wood St & Taylor St,73,Jefferson St & Monroe St,Subscriber,Female,1983.0
+6912217,8/15/2015 10:37,8/15/2015 11:08,4042,1841,249,Montrose Harbor,249,Montrose Harbor,Customer,,
+7188014,8/30/2015 11:00,8/30/2015 11:18,1764,1117,210,Ashland Ave & Division St,112,Green St & Randolph St,Subscriber,Female,1991.0
+7016153,8/20/2015 17:11,8/20/2015 17:17,131,322,81,Daley Center Plaza,41,Federal St & Polk St,Subscriber,Male,1981.0
+6657023,8/3/2015 8:20,8/3/2015 8:42,295,1322,166,Ashland Ave & Wrightwood Ave,100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1982.0
+6811540,8/10/2015 12:21,8/10/2015 12:28,4326,412,35,Streeter Dr & Illinois St,76,Lake Shore Dr & Monroe St,Customer,,
+7206480,8/31/2015 9:08,8/31/2015 9:15,1655,401,100,Orleans St & Merchandise Mart Plaza,287,Franklin St & Monroe St,Subscriber,Male,1984.0
+6646806,8/2/2015 15:39,8/2/2015 15:48,2940,515,35,Streeter Dr & Illinois St,7,Field Blvd & South Water St,Subscriber,Male,1980.0
+7161159,8/28/2015 9:34,8/28/2015 10:04,4680,1785,17,Wood St & Division St,507,Humboldt Blvd & Armitage Ave,Customer,,
+7055130,8/22/2015 14:17,8/22/2015 14:32,1481,905,182,Wells St & Elm St,186,Ogden Ave & Race Ave,Subscriber,Male,1989.0
+6840721,8/11/2015 18:29,8/11/2015 18:55,4792,1520,3,Shedd Aquarium,178,State St & 19th St,Customer,,
+6857387,8/12/2015 16:22,8/12/2015 17:15,1253,3177,3,Shedd Aquarium,341,Adler Planetarium,Customer,,
+7092336,8/24/2015 13:15,8/24/2015 13:22,666,450,227,Southport Ave & Waveland Ave,234,Clark St & Montrose Ave,Subscriber,Male,1966.0
+6936296,8/16/2015 12:22,8/16/2015 13:03,2225,2484,97,Museum Campus,76,Lake Shore Dr & Monroe St,Customer,,
+7218116,8/31/2015 18:57,8/31/2015 19:13,1931,934,145,Mies van der Rohe Way & Chestnut St,26,McClurg Ct & Illinois St,Customer,,
+7009361,8/20/2015 11:18,8/20/2015 11:58,4151,2394,76,Lake Shore Dr & Monroe St,324,Stockton Dr & Wrightwood Ave,Subscriber,Male,1958.0
+6642992,8/2/2015 13:18,8/2/2015 13:42,2290,1447,205,Paulina St & 18th St,43,Michigan Ave & Washington St,Customer,,
+6726828,8/6/2015 11:01,8/6/2015 11:04,3709,239,26,McClurg Ct & Illinois St,26,McClurg Ct & Illinois St,Customer,,
+7023384,8/20/2015 23:23,8/20/2015 23:28,811,309,13,Wilton Ave & Diversey Pkwy,250,Ashland Ave & Wellington Ave,Subscriber,Male,1991.0
+7047893,8/22/2015 10:39,8/22/2015 11:03,2827,1413,196,Cityfront Plaza Dr & Pioneer Ct,90,Millennium Park,Customer,,
+6864854,8/12/2015 20:26,8/12/2015 20:43,1698,1007,85,Michigan Ave & Oak St,177,Theater on the Lake,Customer,,
+7110515,8/25/2015 13:08,8/25/2015 13:14,4350,352,339,Emerald Ave & 31st St,206,Halsted St & Archer Ave,Subscriber,Male,1964.0
+6786449,8/8/2015 20:51,8/8/2015 21:11,1635,1231,507,Humboldt Blvd & Armitage Ave,16,Paulina  Ave (Wood St) & North Ave,Subscriber,Female,1987.0
+6669964,8/3/2015 18:12,8/3/2015 19:37,255,5098,334,Lake Shore Dr & Belmont Ave,26,McClurg Ct & Illinois St,Customer,,
+6841599,8/11/2015 18:58,8/11/2015 19:22,4467,1438,16,Paulina  Ave (Wood St) & North Ave,116,Western Ave & Winnebago Ave,Subscriber,Male,1986.0
+6686000,8/4/2015 15:02,8/4/2015 15:23,4330,1268,35,Streeter Dr & Illinois St,4,Burnham Harbor,Customer,,
+6932986,8/16/2015 10:12,8/16/2015 10:16,1602,246,72,Wabash Ave (State St) & 16th St,59,Wabash Ave & Roosevelt Rd,Customer,,
+7125259,8/26/2015 9:28,8/26/2015 9:41,4298,770,35,Streeter Dr & Illinois St,41,Federal St & Polk St,Subscriber,Male,1970.0
+7033290,8/21/2015 14:32,8/21/2015 15:43,578,4277,454,Broadway & Granville Ave,85,Michigan Ave & Oak St,Customer,,
+6983831,8/18/2015 21:33,8/18/2015 21:39,4242,355,340,Clark St & Wrightwood Ave,220,Hampden Ct & Diversey Pkwy,Subscriber,Male,1993.0
+6825034,8/11/2015 7:16,8/11/2015 7:24,1525,485,343,Racine Ave & Wrightwood Ave,220,Hampden Ct & Diversey Pkwy,Subscriber,Male,1990.0
+6816886,8/10/2015 17:19,8/10/2015 17:25,1131,327,43,Michigan Ave & Washington St,164,Franklin St & Lake St,Subscriber,Male,1964.0
+7208224,8/31/2015 11:25,8/31/2015 11:38,2589,778,2,Buckingham Fountain,90,Millennium Park,Customer,,
+6709239,8/5/2015 15:33,8/5/2015 15:38,1064,333,108,Halsted St & Polk St,55,Halsted St & Roosevelt Rd,Subscriber,Male,1995.0
+6758897,8/7/2015 17:35,8/7/2015 17:57,1266,1310,54,Ogden Ave & Chicago Ave,69,Damen Ave & Pierce Ave,Customer,,
+6934637,8/16/2015 11:22,8/16/2015 11:28,3279,336,254,Pine Grove Ave & Irving Park Rd,306,Sheridan Rd & Buena Ave,Subscriber,Female,1991.0
+6648512,8/2/2015 16:52,8/2/2015 17:21,2298,1715,329,Lake Shore Dr & Diversey Pkwy,157,Lake Shore Dr & Wellington Ave,Customer,,
+6964650,8/17/2015 18:09,8/17/2015 18:32,3157,1429,93,Sheffield Ave & Willow St,499,Kosciuszko Park,Subscriber,Male,1988.0
+7073339,8/23/2015 13:57,8/23/2015 13:58,4264,98,302,Sheffield Ave & Wrightwood Ave,67,Sheffield Ave & Fullerton Ave,Subscriber,Male,1961.0
+7107357,8/25/2015 9:09,8/25/2015 9:25,469,948,186,Ogden Ave & Race Ave,89,Financial Pl & Congress Pkwy,Subscriber,Male,1967.0
+6677752,8/4/2015 8:02,8/4/2015 8:06,202,230,299,Halsted St & Roscoe St,117,Wilton Ave & Belmont Ave,Subscriber,Female,1991.0
+6752957,8/7/2015 14:18,8/7/2015 14:31,3121,781,49,Dearborn St & Monroe St,211,St. Clair St & Erie St,Subscriber,Female,1970.0
+6807377,8/10/2015 8:22,8/10/2015 8:32,1105,598,91,Clinton St & Washington Blvd,194,Wabash Ave & Wacker Pl,Subscriber,Male,1975.0
+6802468,8/9/2015 19:48,8/9/2015 20:02,1975,820,142,McClurg Ct & Erie St,142,McClurg Ct & Erie St,Subscriber,Male,1988.0
+7039126,8/21/2015 17:59,8/21/2015 18:13,2791,840,3,Shedd Aquarium,76,Lake Shore Dr & Monroe St,Customer,,
+7068888,8/23/2015 7:52,8/23/2015 7:58,3614,385,47,State St & Kinzie St,18,Wacker Dr & Washington St,Subscriber,Female,1990.0
+7200354,8/30/2015 19:32,8/30/2015 19:44,702,722,325,Clark St & Winnemac Ave,238,Ravenswood Ave & Montrose Ave,Subscriber,Female,1987.0
+6890957,8/14/2015 8:08,8/14/2015 8:12,3135,223,507,Humboldt Blvd & Armitage Ave,123,California Ave & Milwaukee Ave,Subscriber,Male,1990.0
+6618522,8/1/2015 12:34,8/1/2015 12:57,1682,1412,212,Wells St & Hubbard St,268,Lake Shore Dr & North Blvd,Customer,,
+6611573,8/1/2015 1:49,8/1/2015 2:06,1111,1031,41,Federal St & Polk St,140,Dearborn Pkwy & Delaware Pl,Customer,,
+6637654,8/2/2015 8:42,8/2/2015 8:47,3689,312,499,Kosciuszko Park,260,Kedzie Ave & Milwaukee Ave,Subscriber,Male,1990.0
+7107029,8/25/2015 8:53,8/25/2015 9:07,1488,860,29,Noble St & Milwaukee Ave,36,Franklin St & Jackson Blvd,Subscriber,Male,1989.0
+6834568,8/11/2015 15:31,8/11/2015 15:51,3827,1189,97,Museum Campus,265,Cottage Grove Ave & Oakwood Blvd,Subscriber,Male,1986.0
+6945705,8/16/2015 18:06,8/16/2015 18:15,97,548,156,Clark St & Wellington Ave,67,Sheffield Ave & Fullerton Ave,Subscriber,Male,1990.0
+6783149,8/8/2015 18:11,8/8/2015 18:40,2574,1737,35,Streeter Dr & Illinois St,3,Shedd Aquarium,Customer,,
+7132230,8/26/2015 17:09,8/26/2015 17:18,2722,514,36,Franklin St & Jackson Blvd,43,Michigan Ave & Washington St,Subscriber,Male,1988.0
+7217154,8/31/2015 18:21,8/31/2015 18:28,2658,439,319,Greenview Ave & Diversey Pkwy,302,Sheffield Ave & Wrightwood Ave,Subscriber,Male,1991.0
+6928848,8/15/2015 21:45,8/15/2015 22:01,48,986,88,May St & Randolph St,199,Wabash Ave & Grand Ave,Subscriber,Male,1991.0
+7073367,8/23/2015 13:58,8/23/2015 14:21,3218,1413,249,Montrose Harbor,157,Lake Shore Dr & Wellington Ave,Customer,,
+6679609,8/4/2015 9:04,8/4/2015 9:20,4331,911,75,Canal St & Jackson Blvd,97,Museum Campus,Subscriber,Male,1955.0
+7102492,8/24/2015 21:29,8/24/2015 21:34,2553,307,327,Sheffield Ave & Webster Ave,127,Lincoln Ave & Fullerton Ave,Subscriber,Female,1993.0
+6912457,8/15/2015 10:46,8/15/2015 10:59,3812,779,296,Broadway & Belmont Ave,165,Clark St & Grace St,Subscriber,Male,1967.0
+6797965,8/9/2015 15:59,8/9/2015 16:20,789,1250,268,Lake Shore Dr & North Blvd,35,Streeter Dr & Illinois St,Subscriber,Female,1985.0
+7006969,8/20/2015 8:36,8/20/2015 8:53,2516,1048,313,Lakeview Ave & Fullerton Pkwy,47,State St & Kinzie St,Subscriber,Female,1985.0
+6752036,8/7/2015 13:43,8/7/2015 13:52,2708,533,110,Dearborn St & Erie St,43,Michigan Ave & Washington St,Subscriber,Male,1975.0
+6897360,8/14/2015 13:51,8/14/2015 13:58,4791,445,329,Lake Shore Dr & Diversey Pkwy,117,Wilton Ave & Belmont Ave,Subscriber,Male,1969.0
+6858619,8/12/2015 17:00,8/12/2015 17:17,2940,1011,153,Southport Ave & Wellington Ave,118,Sedgwick St & North Ave,Subscriber,Male,1989.0
+6747650,8/7/2015 10:08,8/7/2015 10:45,523,2208,6,Dusable Harbor,90,Millennium Park,Customer,,
+6764288,8/7/2015 22:05,8/7/2015 22:29,4275,1403,24,Fairbanks Ct & Grand Ave,161,Rush St & Superior St,Customer,,
+7081353,8/23/2015 18:53,8/23/2015 19:02,90,594,476,Kedzie Ave & Leland Ave,311,Leavitt St & Lawrence Ave,Subscriber,Male,1987.0
+6948429,8/16/2015 20:20,8/16/2015 20:35,3540,893,90,Millennium Park,287,Franklin St & Monroe St,Customer,,
+6686515,8/4/2015 15:24,8/4/2015 16:00,45,2130,177,Theater on the Lake,35,Streeter Dr & Illinois St,Customer,,
+6971989,8/18/2015 9:57,8/18/2015 10:10,3113,829,258,Logan Blvd & Elston Ave,484,Monticello Ave & Irving Park Rd,Subscriber,Male,1976.0
+6733835,8/6/2015 16:51,8/6/2015 16:57,4748,381,81,Daley Center Plaza,50,Clark St & Congress Pkwy,Subscriber,Male,1982.0
+7169040,8/28/2015 16:31,8/28/2015 16:44,3779,739,54,Ogden Ave & Chicago Ave,374,Western Ave & Walton St,Subscriber,Female,1982.0
+6713904,8/5/2015 17:47,8/5/2015 17:49,1680,144,214,Damen Ave & Grand Ave,128,Damen Ave & Chicago Ave,Subscriber,Female,1987.0
+6693737,8/4/2015 18:53,8/4/2015 19:06,2701,782,177,Theater on the Lake,85,Michigan Ave & Oak St,Subscriber,Male,1976.0
+6695109,8/4/2015 19:42,8/4/2015 19:55,3976,775,175,Wells St & Polk St,36,Franklin St & Jackson Blvd,Customer,,
+6904279,8/14/2015 18:02,8/14/2015 18:12,2825,624,174,Canal St & Madison St,186,Ogden Ave & Race Ave,Subscriber,Male,1985.0
+6936341,8/16/2015 12:23,8/16/2015 12:29,3488,359,211,St. Clair St & Erie St,199,Wabash Ave & Grand Ave,Customer,,
+6771990,8/8/2015 12:15,8/8/2015 12:47,1076,1941,116,Western Ave & Winnebago Ave,511,Albany Ave & Bloomingdale Ave,Customer,,
+6637261,8/2/2015 7:39,8/2/2015 8:02,685,1349,120,Wentworth Ave & Archer Ave,132,Wentworth Ave & 24th St,Subscriber,Female,1960.0
+7061890,8/22/2015 17:41,8/22/2015 17:58,940,1026,348,California Ave & 21st St,14,Morgan St & 18th St,Subscriber,Male,1981.0
+6672170,8/3/2015 19:32,8/3/2015 19:57,2629,1470,126,Clark St & North Ave,162,Damen Ave & Wellington Ave,Subscriber,Female,1988.0
+7013557,8/20/2015 15:44,8/20/2015 15:59,817,905,75,Canal St & Jackson Blvd,30,Ashland Ave & Augusta Blvd,Subscriber,Male,1983.0
+6705623,8/5/2015 12:16,8/5/2015 12:24,2892,450,197,Michigan Ave & Madison St,77,Clinton St & Madison St,Subscriber,Male,1985.0
+6731072,8/6/2015 15:06,8/6/2015 15:13,214,429,134,Peoria St & Jackson Blvd,192,Canal St & Adams St,Customer,,
+6845956,8/12/2015 5:39,8/12/2015 5:45,162,361,239,Western Ave & Leland Ave,344,Ravenswood Ave & Lawrence Ave,Subscriber,Male,1984.0
+6945579,8/16/2015 18:00,8/16/2015 18:20,1503,1173,51,Clark St & Randolph St,90,Millennium Park,Customer,,
+7082260,8/23/2015 19:33,8/23/2015 20:02,3931,1709,284,Michigan Ave & Jackson Blvd,76,Lake Shore Dr & Monroe St,Customer,,
+6822517,8/10/2015 21:13,8/10/2015 22:18,1707,3904,301,Clark St & Schiller St,35,Streeter Dr & Illinois St,Customer,,
+6916492,8/15/2015 12:56,8/15/2015 13:23,4724,1618,346,Ada St & Washington Blvd,133,Kingsbury St & Kinzie St,Customer,,
+6974534,8/18/2015 13:01,8/18/2015 13:06,1621,333,108,Halsted St & Polk St,282,Halsted St & Maxwell St,Subscriber,Male,1995.0
+7061484,8/22/2015 17:28,8/22/2015 17:55,1943,1643,210,Ashland Ave & Division St,125,Rush St & Hubbard St,Customer,,
+6748369,8/7/2015 10:54,8/7/2015 10:59,3115,269,283,LaSalle St & Jackson Blvd,81,Daley Center Plaza,Subscriber,Male,1988.0
+6986005,8/19/2015 7:44,8/19/2015 8:17,2213,1951,308,Seeley Ave & Roscoe St,49,Dearborn St & Monroe St,Subscriber,Female,1981.0
+6885868,8/13/2015 19:54,8/13/2015 19:58,1608,205,282,Halsted St & Maxwell St,108,Halsted St & Polk St,Subscriber,Male,1986.0
+6989038,8/19/2015 10:07,8/19/2015 10:13,4223,372,338,Calumet Ave & 18th St,97,Museum Campus,Customer,,
+6636471,8/2/2015 1:14,8/2/2015 1:28,4323,868,324,Stockton Dr & Wrightwood Ave,177,Theater on the Lake,Customer,,
+6840962,8/11/2015 18:37,8/11/2015 18:42,1171,340,432,Clark St & Lunt Ave,466,Ridge Blvd & Touhy Ave,Subscriber,Male,1960.0
+6651398,8/2/2015 19:14,8/2/2015 19:51,1533,2205,267,Lake Park Ave & 47th St,265,Cottage Grove Ave & Oakwood Blvd,Customer,,
+7216740,8/31/2015 18:08,8/31/2015 18:17,132,581,174,Canal St & Madison St,53,Wells St & Erie St,Subscriber,Male,1985.0
+7219366,8/31/2015 19:56,8/31/2015 20:14,3990,1062,219,Damen Ave & Cortland St,330,Lincoln Ave & Addison St,Subscriber,Male,1992.0
+6816370,8/10/2015 17:07,8/10/2015 17:26,4552,1109,20,Sheffield Ave & Kingsbury St,303,Broadway & Cornelia Ave,Subscriber,Male,1975.0
+6904350,8/14/2015 18:05,8/14/2015 18:08,2589,212,238,Ravenswood Ave & Montrose Ave,243,Lincoln Ave & Leavitt St,Subscriber,Male,1970.0
+7182571,8/29/2015 16:47,8/29/2015 16:54,1888,435,423,University Ave & 57th St,419,Lake Park Ave & 53rd St,Subscriber,Female,1986.0
+6840726,8/11/2015 18:29,8/11/2015 18:49,2043,1196,2,Buckingham Fountain,2,Buckingham Fountain,Customer,,
+6870533,8/13/2015 8:36,8/13/2015 8:43,4421,425,174,Canal St & Madison St,74,Kingsbury St & Erie St,Subscriber,Male,1980.0
+6648301,8/2/2015 16:43,8/2/2015 16:57,4474,854,111,Sedgwick St & Huron St,76,Lake Shore Dr & Monroe St,Subscriber,Male,1968.0
+6718243,8/5/2015 20:16,8/5/2015 20:58,2933,2551,359,Larrabee St & Division St,359,Larrabee St & Division St,Customer,,
+6939756,8/16/2015 14:20,8/16/2015 14:55,3402,2093,97,Museum Campus,341,Adler Planetarium,Subscriber,Male,1985.0
+6801692,8/9/2015 19:07,8/9/2015 19:11,1296,259,111,Sedgwick St & Huron St,48,Larrabee St & Kingsbury St,Subscriber,Female,1992.0
+7004044,8/20/2015 6:09,8/20/2015 6:22,1989,735,91,Clinton St & Washington Blvd,195,Columbus Dr & Randolph St,Subscriber,Male,1960.0
+6647039,8/2/2015 15:49,8/2/2015 16:02,4049,748,161,Rush St & Superior St,81,Daley Center Plaza,Subscriber,Female,1985.0
+6621284,8/1/2015 13:47,8/1/2015 13:53,3165,374,49,Dearborn St & Monroe St,75,Canal St & Jackson Blvd,Subscriber,Male,1989.0
+6635068,8/1/2015 22:33,8/1/2015 22:35,2519,117,195,Columbus Dr & Randolph St,195,Columbus Dr & Randolph St,Customer,,
+7148323,8/27/2015 16:14,8/27/2015 16:25,4073,688,195,Columbus Dr & Randolph St,192,Canal St & Adams St,Subscriber,Male,1976.0
+7120528,8/25/2015 22:06,8/25/2015 22:21,2989,888,35,Streeter Dr & Illinois St,177,Theater on the Lake,Subscriber,Male,1981.0
+6691866,8/4/2015 17:59,8/4/2015 18:06,3601,388,423,University Ave & 57th St,204,Prairie Ave & Garfield Blvd,Subscriber,Male,1981.0
+7198536,8/30/2015 18:03,8/30/2015 18:21,4084,1100,341,Adler Planetarium,35,Streeter Dr & Illinois St,Customer,,
+6944184,8/16/2015 17:00,8/16/2015 17:07,2418,416,199,Wabash Ave & Grand Ave,99,Lake Shore Dr & Ohio St,Subscriber,Female,1991.0
+7185484,8/30/2015 0:42,8/30/2015 0:59,2092,1001,227,Southport Ave & Waveland Ave,58,Marshfield Ave & Cortland St,Subscriber,Male,1989.0
+6977891,8/18/2015 16:26,8/18/2015 16:29,4059,138,134,Peoria St & Jackson Blvd,198,Green St (Halsted St) & Madison St,Subscriber,Male,1985.0
+6822133,8/10/2015 20:39,8/10/2015 21:04,3771,1483,35,Streeter Dr & Illinois St,255,Indiana Ave & Roosevelt Rd,Customer,,
+7105584,8/25/2015 8:04,8/25/2015 8:09,3180,294,52,Michigan Ave & Lake St,39,Wabash Ave & Adams St,Subscriber,Male,1956.0
+7150819,8/27/2015 17:26,8/27/2015 17:41,2945,905,210,Ashland Ave & Division St,133,Kingsbury St & Kinzie St,Subscriber,Female,1988.0
+7137146,8/26/2015 20:50,8/26/2015 21:06,1068,960,107,Desplaines St & Jackson Blvd,264,Stetson Ave & South Water St,Subscriber,Female,1958.0
+7079129,8/23/2015 17:24,8/23/2015 17:41,3158,1001,17,Wood St & Division St,163,Damen Ave & Clybourn Ave,Subscriber,Female,1990.0
+6931859,8/16/2015 8:53,8/16/2015 9:20,4502,1617,43,Michigan Ave & Washington St,341,Adler Planetarium,Subscriber,Male,1980.0
+7022422,8/20/2015 21:45,8/20/2015 21:55,3631,588,276,California Ave & North Ave,508,Central Park Ave & North Ave,Subscriber,Female,1980.0
+6808679,8/10/2015 9:13,8/10/2015 9:17,3276,225,194,Wabash Ave & Wacker Pl,24,Fairbanks Ct & Grand Ave,Subscriber,Male,1968.0
+7091310,8/24/2015 12:15,8/24/2015 12:43,4661,1671,419,Lake Park Ave & 53rd St,150,Fort Dearborn Dr & 31st St,Customer,,
+6694703,8/4/2015 19:27,8/4/2015 19:35,4733,439,243,Lincoln Ave & Leavitt St,344,Ravenswood Ave & Lawrence Ave,Subscriber,Male,1980.0
+7017067,8/20/2015 17:33,8/20/2015 17:37,3946,254,212,Wells St & Hubbard St,66,Clinton St & Lake St,Subscriber,Male,1967.0
+6852009,8/12/2015 11:40,8/12/2015 11:47,3148,436,40,LaSalle St & Adams St,44,State St & Randolph St,Subscriber,Male,1985.0
+7197796,8/30/2015 17:32,8/30/2015 17:43,2763,631,114,Sheffield Ave & Addison St,343,Racine Ave & Wrightwood Ave,Subscriber,Male,1974.0
+6676640,8/4/2015 7:19,8/4/2015 7:32,4243,750,125,Rush St & Hubbard St,36,Franklin St & Jackson Blvd,Subscriber,Male,1986.0
+7170138,8/28/2015 17:05,8/28/2015 17:36,3510,1862,199,Wabash Ave & Grand Ave,81,Daley Center Plaza,Subscriber,Female,1987.0
+6912580,8/15/2015 10:51,8/15/2015 10:59,1544,476,94,Clark St & Armitage Ave,340,Clark St & Wrightwood Ave,Subscriber,Female,1988.0
+7087857,8/24/2015 8:36,8/24/2015 8:46,2576,575,26,McClurg Ct & Illinois St,100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1952.0
+6853008,8/12/2015 12:33,8/12/2015 12:44,3456,662,49,Dearborn St & Monroe St,199,Wabash Ave & Grand Ave,Customer,,
+6684154,8/4/2015 13:24,8/4/2015 13:34,4199,550,37,Dearborn St & Adams St,72,Wabash Ave (State St) & 16th St,Subscriber,Male,1980.0
+7070038,8/23/2015 10:34,8/23/2015 10:38,1310,243,108,Halsted St & Polk St,134,Peoria St & Jackson Blvd,Subscriber,Female,1991.0
+7020459,8/20/2015 19:29,8/20/2015 19:40,3886,646,273,Michigan Ave & 18th St,321,Wabash Ave & 8th St,Subscriber,Male,1977.0
+7202600,8/31/2015 0:17,8/31/2015 0:23,1153,387,69,Damen Ave & Pierce Ave,128,Damen Ave & Chicago Ave,Subscriber,Male,1990.0
+7198852,8/30/2015 18:17,8/30/2015 18:32,454,895,131,Lincoln Ave & Belmont Ave,334,Lake Shore Dr & Belmont Ave,Customer,,
+6969834,8/18/2015 8:09,8/18/2015 8:26,2250,1028,301,Clark St & Schiller St,73,Jefferson St & Monroe St,Subscriber,Female,1982.0
+6700720,8/5/2015 7:51,8/5/2015 7:53,2929,105,157,Lake Shore Dr & Wellington Ave,157,Lake Shore Dr & Wellington Ave,Subscriber,Female,1985.0
+7071041,8/23/2015 12:01,8/23/2015 12:20,2657,1151,210,Ashland Ave & Division St,289,Wells St & Concord Pl,Customer,,
+6923866,8/15/2015 17:12,8/15/2015 17:32,3115,1198,61,Wood St & Milwaukee Ave,290,Kedzie Ave & Palmer Ct,Customer,,
+6683460,8/4/2015 12:49,8/4/2015 13:06,3718,990,268,Lake Shore Dr & North Blvd,35,Streeter Dr & Illinois St,Customer,,
+6911781,8/15/2015 10:20,8/15/2015 10:46,3797,1552,4,Burnham Harbor,150,Fort Dearborn Dr & 31st St,Subscriber,Female,1991.0
+6737346,8/6/2015 18:20,8/6/2015 18:34,1256,870,113,Bissell St & Armitage Ave,34,Cannon Dr & Fullerton Ave,Customer,,
+6627531,8/1/2015 16:44,8/1/2015 17:13,1117,1708,99,Lake Shore Dr & Ohio St,177,Theater on the Lake,Customer,,
+6631652,8/1/2015 19:15,8/1/2015 19:42,422,1657,177,Theater on the Lake,35,Streeter Dr & Illinois St,Subscriber,Male,1993.0
+7017836,8/20/2015 17:53,8/20/2015 17:59,3938,386,229,Southport Ave & Roscoe St,318,Southport Ave & Irving Park Rd,Subscriber,Male,1990.0
+6709670,8/5/2015 15:53,8/5/2015 16:00,3669,455,287,Franklin St & Monroe St,53,Wells St & Erie St,Subscriber,Male,1979.0
+7113411,8/25/2015 16:16,8/25/2015 16:34,3536,1035,97,Museum Campus,4,Burnham Harbor,Customer,,
+7175638,8/28/2015 23:14,8/28/2015 23:29,437,858,227,Southport Ave & Waveland Ave,242,Damen Ave & Leland Ave,Customer,,
+7134929,8/26/2015 18:34,8/26/2015 18:40,3244,352,75,Canal St & Jackson Blvd,233,Sangamon St & Washington Blvd,Subscriber,Male,1981.0
+6882846,8/13/2015 18:02,8/13/2015 18:17,2234,903,100,Orleans St & Merchandise Mart Plaza,273,Michigan Ave & 18th St,Subscriber,Male,1976.0
+6693748,8/4/2015 18:53,8/4/2015 19:06,1972,774,73,Jefferson St & Monroe St,130,Damen Ave & Division St,Subscriber,Male,1985.0
+7132100,8/26/2015 17:06,8/26/2015 17:15,4730,543,51,Clark St & Randolph St,175,Wells St & Polk St,Subscriber,Male,1974.0
+6868635,8/13/2015 7:22,8/13/2015 7:29,4649,396,77,Clinton St & Madison St,81,Daley Center Plaza,Subscriber,Male,1978.0
+6756504,8/7/2015 16:30,8/7/2015 16:36,2024,330,45,Michigan Ave & Congress Pkwy,90,Millennium Park,Customer,,
+6997893,8/19/2015 17:37,8/19/2015 18:04,3805,1633,334,Lake Shore Dr & Belmont Ave,465,Marine Dr & Ainslie St,Customer,,
+6663680,8/3/2015 14:39,8/3/2015 15:17,260,2227,195,Columbus Dr & Randolph St,161,Rush St & Superior St,Customer,,
+6810543,8/10/2015 11:30,8/10/2015 11:46,1269,969,383,Ashland Ave & Harrison St,18,Wacker Dr & Washington St,Subscriber,Male,1965.0
+7072527,8/23/2015 13:21,8/23/2015 13:33,2178,716,113,Bissell St & Armitage Ave,69,Damen Ave & Pierce Ave,Subscriber,Male,1989.0
+7144459,8/27/2015 12:20,8/27/2015 12:34,306,856,298,Lincoln Ave & Belle Plaine Ave,325,Clark St & Winnemac Ave,Subscriber,Male,1964.0
+6750212,8/7/2015 12:28,8/7/2015 12:31,775,184,304,Broadway & Waveland Ave,303,Broadway & Cornelia Ave,Subscriber,Male,1941.0
+7078634,8/23/2015 17:07,8/23/2015 17:13,4231,358,321,Wabash Ave & 8th St,59,Wabash Ave & Roosevelt Rd,Subscriber,Male,1983.0
+6994529,8/19/2015 16:04,8/19/2015 16:17,4831,793,35,Streeter Dr & Illinois St,2,Buckingham Fountain,Customer,,
+6985262,8/19/2015 7:07,8/19/2015 7:13,4314,373,346,Ada St & Washington Blvd,73,Jefferson St & Monroe St,Subscriber,Male,1979.0
+7178986,8/29/2015 12:28,8/29/2015 12:47,1293,1091,157,Lake Shore Dr & Wellington Ave,157,Lake Shore Dr & Wellington Ave,Subscriber,Female,1954.0
+6778081,8/8/2015 15:20,8/8/2015 15:33,4733,759,110,Dearborn St & Erie St,268,Lake Shore Dr & North Blvd,Customer,,
+6638545,8/2/2015 9:56,8/2/2015 10:22,1947,1604,26,McClurg Ct & Illinois St,92,Carpenter St & Huron St,Subscriber,Male,1960.0
+7105535,8/25/2015 8:02,8/25/2015 8:16,70,816,237,MLK Jr Dr & 29th St,120,Wentworth Ave & Archer Ave,Subscriber,Male,1985.0
+7187754,8/30/2015 10:45,8/30/2015 11:01,4133,959,165,Clark St & Grace St,486,Oakley Ave & Irving Park Rd,Subscriber,Male,1977.0
+6846494,8/12/2015 6:52,8/12/2015 6:56,37,253,106,State St & Pearson St,180,Ritchie Ct & Banks St,Subscriber,Male,1984.0
+6769759,8/8/2015 11:00,8/8/2015 11:13,4378,794,286,Franklin St & Quincy St,23,Orleans St & Elm St,Subscriber,Male,1985.0
+7198404,8/30/2015 17:57,8/30/2015 18:25,3048,1684,36,Franklin St & Jackson Blvd,35,Streeter Dr & Illinois St,Customer,,
+6641145,8/2/2015 12:08,8/2/2015 12:16,2098,471,327,Sheffield Ave & Webster Ave,60,Dayton St & North Ave,Subscriber,Male,1958.0
+7176148,8/29/2015 1:38,8/29/2015 1:41,1853,200,84,Union Ave & Grand Ave,56,Desplaines St & Kinzie St,Subscriber,Male,1987.0
+7158160,8/28/2015 7:25,8/28/2015 7:37,2473,728,128,Damen Ave & Chicago Ave,383,Ashland Ave & Harrison St,Subscriber,Male,1991.0
+6886176,8/13/2015 20:12,8/13/2015 20:30,1232,1117,157,Lake Shore Dr & Wellington Ave,492,Leavitt St & Addison St,Subscriber,Male,1989.0
+7050776,8/22/2015 12:17,8/22/2015 12:36,2982,1175,260,Kedzie Ave & Milwaukee Ave,507,Humboldt Blvd & Armitage Ave,Customer,,
+6738861,8/6/2015 19:12,8/6/2015 19:23,943,633,41,Federal St & Polk St,57,Clinton St & Roosevelt Rd,Subscriber,Female,1990.0
+6813637,8/10/2015 14:50,8/10/2015 15:07,1497,1045,90,Millennium Park,3,Shedd Aquarium,Customer,,
+7121787,8/26/2015 6:52,8/26/2015 7:08,4531,919,468,Budlong Woods Library,344,Ravenswood Ave & Lawrence Ave,Subscriber,Male,1979.0
+6702293,8/5/2015 8:44,8/5/2015 8:53,3832,501,120,Wentworth Ave & Archer Ave,402,Shields Ave & 31st St,Subscriber,Male,1989.0
+7068032,8/23/2015 0:35,8/23/2015 0:44,2125,518,268,Lake Shore Dr & North Blvd,313,Lakeview Ave & Fullerton Pkwy,Subscriber,Male,1983.0
+6877541,8/13/2015 15:15,8/13/2015 15:36,2194,1235,327,Sheffield Ave & Webster Ave,299,Halsted St & Roscoe St,Customer,,
+6818770,8/10/2015 18:09,8/10/2015 18:14,4627,289,75,Canal St & Jackson Blvd,134,Peoria St & Jackson Blvd,Subscriber,Female,1988.0
+6932212,8/16/2015 9:24,8/16/2015 9:41,2827,1012,460,Clark St & Bryn Mawr Ave,229,Southport Ave & Roscoe St,Subscriber,Male,1979.0
+7175447,8/28/2015 22:40,8/28/2015 22:50,4537,613,204,Prairie Ave & Garfield Blvd,248,Woodlawn Ave & 55th St,Subscriber,Male,1986.0
+7166328,8/28/2015 14:39,8/28/2015 15:08,2602,1743,76,Lake Shore Dr & Monroe St,264,Stetson Ave & South Water St,Customer,,
+6692669,8/4/2015 18:20,8/4/2015 18:33,3798,770,212,Wells St & Hubbard St,289,Wells St & Concord Pl,Subscriber,Male,1958.0
+7132045,8/26/2015 17:05,8/26/2015 17:13,841,460,66,Clinton St & Lake St,194,Wabash Ave & Wacker Pl,Subscriber,Male,1980.0
+6825866,8/11/2015 7:50,8/11/2015 8:15,4606,1480,504,Campbell Ave & Fullerton Ave,134,Peoria St & Jackson Blvd,Subscriber,Male,1982.0
+7003842,8/20/2015 4:41,8/20/2015 5:01,4787,1216,144,Larrabee St & Webster Ave,39,Wabash Ave & Adams St,Subscriber,Male,1967.0
+6759004,8/7/2015 17:38,8/7/2015 17:57,2131,1139,24,Fairbanks Ct & Grand Ave,72,Wabash Ave (State St) & 16th St,Subscriber,Male,1965.0
+6950981,8/17/2015 6:31,8/17/2015 6:49,1936,1087,113,Bissell St & Armitage Ave,174,Canal St & Madison St,Subscriber,Male,1992.0
+7148142,8/27/2015 16:06,8/27/2015 16:17,2771,653,130,Damen Ave & Division St,58,Marshfield Ave & Cortland St,Subscriber,Female,1986.0
+6689603,8/4/2015 17:08,8/4/2015 17:30,1257,1298,194,Wabash Ave & Wacker Pl,337,Clark St & Chicago Ave,Customer,,
+6871946,8/13/2015 9:47,8/13/2015 9:53,392,366,192,Canal St & Adams St,40,LaSalle St & Adams St,Subscriber,Male,1969.0
+7118362,8/25/2015 19:04,8/25/2015 19:26,4035,1328,434,Ogden Ave & Roosevelt Rd,333,Ashland Ave & Blackhawk St,Subscriber,Male,1956.0
+7136717,8/26/2015 20:14,8/26/2015 20:26,2004,723,287,Franklin St & Monroe St,72,Wabash Ave (State St) & 16th St,Subscriber,Male,1989.0
+6857511,8/12/2015 16:26,8/12/2015 16:42,1702,934,177,Theater on the Lake,232,Pine Grove Ave & Waveland Ave,Customer,,
+7147652,8/27/2015 15:45,8/27/2015 15:52,2388,414,194,Wabash Ave & Wacker Pl,106,State St & Pearson St,Subscriber,Male,1983.0
+6625928,8/1/2015 15:56,8/1/2015 16:08,428,722,24,Fairbanks Ct & Grand Ave,364,Larrabee St & Oak St,Subscriber,Male,1983.0
+6922866,8/15/2015 16:34,8/15/2015 16:49,1698,907,287,Franklin St & Monroe St,176,Clark St & Elm St,Subscriber,Male,1992.0
+7005281,8/20/2015 7:37,8/20/2015 7:40,701,206,17,Wood St & Division St,30,Ashland Ave & Augusta Blvd,Subscriber,Female,1984.0
+7114882,8/25/2015 17:04,8/25/2015 17:12,2701,435,39,Wabash Ave & Adams St,174,Canal St & Madison St,Subscriber,Male,1974.0
+7163959,8/28/2015 12:31,8/28/2015 12:48,4592,1012,341,Adler Planetarium,284,Michigan Ave & Jackson Blvd,Customer,,
+6651646,8/2/2015 19:26,8/2/2015 19:35,1838,546,80,Aberdeen St & Monroe St (Madison St),19,Loomis St & Taylor St,Customer,,
+6723095,8/6/2015 7:55,8/6/2015 8:04,3230,492,24,Fairbanks Ct & Grand Ave,90,Millennium Park,Subscriber,Male,1982.0
+7044833,8/22/2015 4:35,8/22/2015 4:47,2093,745,382,Western Ave & Congress Pkwy,348,California Ave & 21st St,Customer,,
+7103622,8/25/2015 6:20,8/25/2015 6:29,2759,587,111,Sedgwick St & Huron St,283,LaSalle St & Jackson Blvd,Subscriber,Male,1955.0
+7109451,8/25/2015 11:54,8/25/2015 12:08,4731,870,33,State St & Van Buren St,3,Shedd Aquarium,Customer,,
+7214994,8/31/2015 17:20,8/31/2015 17:38,2901,1085,106,State St & Pearson St,192,Canal St & Adams St,Subscriber,Male,1982.0
+6913947,8/15/2015 11:38,8/15/2015 11:43,143,327,329,Lake Shore Dr & Diversey Pkwy,300,Broadway & Barry Ave,Subscriber,Male,1976.0
+6622124,8/1/2015 14:09,8/1/2015 14:53,4769,2627,159,Claremont Ave & Hirsch St,143,Sedgwick St & Webster Ave,Customer,,
+6677065,8/4/2015 7:37,8/4/2015 7:43,536,359,85,Michigan Ave & Oak St,46,Wells St & Walton St,Subscriber,Male,1979.0
+7092896,8/24/2015 13:50,8/24/2015 14:05,566,890,48,Larrabee St & Kingsbury St,174,Canal St & Madison St,Subscriber,Male,1956.0
+7026566,8/21/2015 8:33,8/21/2015 8:39,1014,368,38,Clark St & Lake St,283,LaSalle St & Jackson Blvd,Subscriber,Male,1984.0
+7155516,8/27/2015 21:08,8/27/2015 21:20,2111,746,130,Damen Ave & Division St,86,Eckhart Park,Subscriber,Female,1981.0
+6678495,8/4/2015 8:24,8/4/2015 8:45,3235,1270,310,Damen Ave & Charleston St,73,Jefferson St & Monroe St,Subscriber,Male,1984.0
+6975231,8/18/2015 13:49,8/18/2015 14:13,3571,1440,35,Streeter Dr & Illinois St,177,Theater on the Lake,Subscriber,Female,1980.0
+7043630,8/21/2015 22:27,8/21/2015 22:38,3901,675,114,Sheffield Ave & Addison St,300,Broadway & Barry Ave,Subscriber,Male,1989.0
+6911940,8/15/2015 10:26,8/15/2015 11:18,3089,3124,150,Fort Dearborn Dr & 31st St,150,Fort Dearborn Dr & 31st St,Subscriber,Female,1960.0
+6856895,8/12/2015 16:04,8/12/2015 16:34,3131,1801,172,Rush St & Cedar St,35,Streeter Dr & Illinois St,Customer,,
+7117213,8/25/2015 18:13,8/25/2015 18:24,3149,645,5,State St & Harrison St,195,Columbus Dr & Randolph St,Subscriber,Male,1986.0
+7030864,8/21/2015 12:33,8/21/2015 12:45,1838,690,120,Wentworth Ave & Archer Ave,49,Dearborn St & Monroe St,Subscriber,Female,1990.0
+6894046,8/14/2015 10:49,8/14/2015 10:59,1082,547,251,Clarendon Ave & Leland Ave,297,Paulina St & Montrose Ave,Subscriber,Male,1970.0
+6644115,8/2/2015 13:53,8/2/2015 14:32,2165,2351,3,Shedd Aquarium,150,Fort Dearborn Dr & 31st St,Customer,,
+7072584,8/23/2015 13:24,8/23/2015 13:48,2196,1449,7,Field Blvd & South Water St,2,Buckingham Fountain,Customer,,
+7019635,8/20/2015 18:53,8/20/2015 18:58,2013,278,88,May St & Randolph St,198,Green St (Halsted St) & Madison St,Subscriber,Female,1964.0
+7005460,8/20/2015 7:43,8/20/2015 7:54,3709,638,192,Canal St & Adams St,264,Stetson Ave & South Water St,Subscriber,Male,1969.0
+6940309,8/16/2015 14:42,8/16/2015 15:12,4498,1769,268,Lake Shore Dr & North Blvd,90,Millennium Park,Customer,,
+7152060,8/27/2015 18:01,8/27/2015 18:07,1517,389,299,Halsted St & Roscoe St,306,Sheridan Rd & Buena Ave,Subscriber,Female,1991.0
+6781928,8/8/2015 17:28,8/8/2015 17:44,1490,970,110,Dearborn St & Erie St,143,Sedgwick St & Webster Ave,Subscriber,Female,1990.0
+6845805,8/12/2015 2:20,8/12/2015 2:25,3232,285,195,Columbus Dr & Randolph St,81,Daley Center Plaza,Subscriber,Male,1988.0
+6626881,8/1/2015 16:23,8/1/2015 16:45,1250,1315,263,Rhodes Ave & 32nd St,76,Lake Shore Dr & Monroe St,Customer,,
+6934741,8/16/2015 11:26,8/16/2015 11:38,3376,746,301,Clark St & Schiller St,324,Stockton Dr & Wrightwood Ave,Subscriber,Male,1970.0
+6770267,8/8/2015 11:18,8/8/2015 11:44,4695,1526,153,Southport Ave & Wellington Ave,112,Green St & Randolph St,Subscriber,Male,1965.0
+6862663,8/12/2015 18:52,8/12/2015 19:03,4204,659,295,Broadway & Argyle St,464,Damen Ave & Foster Ave,Subscriber,Male,1985.0
+6719387,8/5/2015 21:26,8/5/2015 21:42,3439,951,337,Clark St & Chicago Ave,144,Larrabee St & Webster Ave,Subscriber,Male,1983.0
+7135698,8/26/2015 19:09,8/26/2015 19:20,4739,683,75,Canal St & Jackson Blvd,111,Sedgwick St & Huron St,Subscriber,Male,1981.0
+6947086,8/16/2015 19:10,8/16/2015 19:27,4330,1012,198,Green St (Halsted St) & Madison St,143,Sedgwick St & Webster Ave,Subscriber,Male,1986.0
+6650267,8/2/2015 18:15,8/2/2015 19:00,4699,2734,76,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,Customer,,
+6948119,8/16/2015 20:02,8/16/2015 20:23,1689,1231,140,Dearborn Pkwy & Delaware Pl,35,Streeter Dr & Illinois St,Subscriber,Male,1987.0
+7132934,8/26/2015 17:27,8/26/2015 17:58,1407,1841,31,Franklin St & Chicago Ave,180,Ritchie Ct & Banks St,Customer,,
+6921727,8/15/2015 15:55,8/15/2015 16:17,2246,1297,268,Lake Shore Dr & North Blvd,334,Lake Shore Dr & Belmont Ave,Customer,,
+6703088,8/5/2015 9:19,8/5/2015 9:38,3496,1132,321,Wabash Ave & 8th St,3,Shedd Aquarium,Customer,,
+6875805,8/13/2015 13:35,8/13/2015 13:55,1890,1198,198,Green St (Halsted St) & Madison St,284,Michigan Ave & Jackson Blvd,Customer,,
+6686760,8/4/2015 15:36,8/4/2015 15:47,74,661,434,Ogden Ave & Roosevelt Rd,22,May St & Taylor St,Subscriber,Male,1995.0
+6660803,8/3/2015 12:05,8/3/2015 12:14,3828,539,283,LaSalle St & Jackson Blvd,90,Millennium Park,Subscriber,Female,1988.0
+7051583,8/22/2015 12:41,8/22/2015 12:49,4512,485,191,Canal St & Monroe St,77,Clinton St & Madison St,Customer,,
+7214569,8/31/2015 17:10,8/31/2015 17:31,2848,1267,35,Streeter Dr & Illinois St,174,Canal St & Madison St,Subscriber,Male,1981.0
+6923389,8/15/2015 16:53,8/15/2015 17:23,807,1801,419,Lake Park Ave & 53rd St,101,63rd St Beach,Customer,,
+6891508,8/14/2015 8:27,8/14/2015 8:32,3483,266,53,Wells St & Erie St,212,Wells St & Hubbard St,Subscriber,Male,1964.0
+6655572,8/3/2015 7:20,8/3/2015 7:32,1465,747,77,Clinton St & Madison St,383,Ashland Ave & Harrison St,Subscriber,Male,1944.0
+7028308,8/21/2015 10:04,8/21/2015 10:09,1541,347,165,Clark St & Grace St,303,Broadway & Cornelia Ave,Subscriber,Male,1978.0
+7094735,8/24/2015 15:45,8/24/2015 15:59,2333,854,97,Museum Campus,76,Lake Shore Dr & Monroe St,Customer,,
+6991210,8/19/2015 12:54,8/19/2015 13:00,1184,388,339,Emerald Ave & 31st St,206,Halsted St & Archer Ave,Subscriber,Male,1964.0
+7046949,8/22/2015 9:58,8/22/2015 10:05,4600,445,301,Clark St & Schiller St,313,Lakeview Ave & Fullerton Pkwy,Subscriber,Male,1987.0
+7144430,8/27/2015 12:17,8/27/2015 12:24,3381,417,331,Halsted St & Blackhawk St,28,Larrabee St & Menomonee St,Subscriber,Male,1966.0
+7127498,8/26/2015 12:46,8/26/2015 13:14,1837,1691,25,Michigan Ave & Pearson St,77,Clinton St & Madison St,Customer,,
+6947501,8/16/2015 19:31,8/16/2015 20:10,1322,2325,101,63rd St Beach,101,63rd St Beach,Subscriber,Male,1999.0
+7036713,8/21/2015 16:46,8/21/2015 17:05,351,1168,181,LaSalle St & Illinois St,113,Bissell St & Armitage Ave,Subscriber,Female,1986.0
+6861052,8/12/2015 18:01,8/12/2015 18:20,1350,1142,26,McClurg Ct & Illinois St,2,Buckingham Fountain,Customer,,
+6652887,8/2/2015 20:43,8/2/2015 20:54,3591,718,172,Rush St & Cedar St,125,Rush St & Hubbard St,Customer,,
+7068674,8/23/2015 6:45,8/23/2015 6:51,4646,347,286,Franklin St & Quincy St,91,Clinton St & Washington Blvd,Subscriber,Male,1974.0
+6622299,8/1/2015 14:13,8/1/2015 14:28,1201,891,94,Clark St & Armitage Ave,212,Wells St & Hubbard St,Customer,,
+7174404,8/28/2015 20:29,8/28/2015 20:42,1897,760,76,Lake Shore Dr & Monroe St,35,Streeter Dr & Illinois St,Customer,,
+6986722,8/19/2015 8:09,8/19/2015 8:13,4668,250,192,Canal St & Adams St,198,Green St (Halsted St) & Madison St,Subscriber,Male,1974.0
+6731410,8/6/2015 15:20,8/6/2015 15:41,4070,1208,142,McClurg Ct & Erie St,192,Canal St & Adams St,Subscriber,Male,1968.0
+7049944,8/22/2015 11:52,8/22/2015 12:03,3462,690,120,Wentworth Ave & Archer Ave,59,Wabash Ave & Roosevelt Rd,Customer,,
+6828790,8/11/2015 9:55,8/11/2015 10:02,471,426,90,Millennium Park,77,Clinton St & Madison St,Subscriber,Male,1970.0
+6697510,8/4/2015 21:58,8/4/2015 22:02,1546,235,264,Stetson Ave & South Water St,38,Clark St & Lake St,Subscriber,Male,1985.0
+6969424,8/18/2015 7:53,8/18/2015 7:59,2815,343,41,Federal St & Polk St,283,LaSalle St & Jackson Blvd,Subscriber,Male,1990.0
+6942661,8/16/2015 16:03,8/16/2015 16:24,225,1299,116,Western Ave & Winnebago Ave,31,Franklin St & Chicago Ave,Subscriber,Female,1991.0
+6853921,8/12/2015 13:24,8/12/2015 13:29,169,294,461,Broadway & Ridge Ave,460,Clark St & Bryn Mawr Ave,Customer,,
+7026181,8/21/2015 8:17,8/21/2015 8:38,3850,1241,29,Noble St & Milwaukee Ave,264,Stetson Ave & South Water St,Subscriber,Female,1985.0
+7220593,8/31/2015 21:38,8/31/2015 21:49,4053,690,199,Wabash Ave & Grand Ave,29,Noble St & Milwaukee Ave,Subscriber,Male,1985.0
+6984719,8/19/2015 6:18,8/19/2015 6:19,3463,86,95,Stony Island Ave & 64th St,95,Stony Island Ave & 64th St,Subscriber,Female,1952.0
+7115172,8/25/2015 17:11,8/25/2015 17:34,2102,1355,182,Wells St & Elm St,153,Southport Ave & Wellington Ave,Subscriber,Female,1981.0
+6622834,8/1/2015 14:28,8/1/2015 14:41,3468,766,509,Troy St & North Ave,123,California Ave & Milwaukee Ave,Customer,,
+6875467,8/13/2015 13:16,8/13/2015 13:24,1674,497,117,Wilton Ave & Belmont Ave,304,Broadway & Waveland Ave,Subscriber,Male,1987.0
+7063360,8/22/2015 18:32,8/22/2015 18:42,3206,573,326,Clark St & Leland Ave,242,Damen Ave & Leland Ave,Customer,,
+7011531,8/20/2015 13:43,8/20/2015 13:49,4524,349,181,LaSalle St & Illinois St,199,Wabash Ave & Grand Ave,Subscriber,Female,1978.0
+6886152,8/13/2015 20:10,8/13/2015 20:36,3211,1561,313,Lakeview Ave & Fullerton Pkwy,156,Clark St & Wellington Ave,Subscriber,Male,1959.0
+7086209,8/24/2015 7:36,8/24/2015 7:43,2395,433,174,Canal St & Madison St,52,Michigan Ave & Lake St,Subscriber,Male,1990.0
+7169190,8/28/2015 16:36,8/28/2015 16:42,359,367,231,Sheridan Rd & Montrose Ave,304,Broadway & Waveland Ave,Subscriber,Male,1984.0
+6850117,8/12/2015 9:27,8/12/2015 9:32,3898,294,68,Clinton St & Tilden St,191,Canal St & Monroe St,Subscriber,Female,1965.0
+7120272,8/25/2015 21:34,8/25/2015 21:45,1905,631,16,Paulina  Ave (Wood St) & North Ave,160,Campbell Ave & North Ave,Customer,,
+6720581,8/5/2015 23:28,8/5/2015 23:34,782,381,197,Michigan Ave & Madison St,164,Franklin St & Lake St,Subscriber,Male,1980.0
+7014025,8/20/2015 16:06,8/20/2015 16:21,4137,927,157,Lake Shore Dr & Wellington Ave,113,Bissell St & Armitage Ave,Subscriber,Female,1984.0
+6818296,8/10/2015 17:54,8/10/2015 17:59,603,341,71,Morgan St & Lake St,174,Canal St & Madison St,Subscriber,Male,1981.0
+6687064,8/4/2015 15:51,8/4/2015 16:14,347,1400,241,Morgan St & Polk St,35,Streeter Dr & Illinois St,Subscriber,Male,1988.0
+6638602,8/2/2015 9:59,8/2/2015 10:08,2576,500,35,Streeter Dr & Illinois St,35,Streeter Dr & Illinois St,Customer,,
+6750896,8/7/2015 12:58,8/7/2015 13:14,4380,1003,303,Broadway & Cornelia Ave,459,Lakefront Trail & Bryn Mawr Ave,Subscriber,Male,1980.0
+6841298,8/11/2015 18:47,8/11/2015 18:51,2430,214,119,Ashland Ave & Lake St,277,Ashland Ave & Grand Ave,Subscriber,Female,1964.0
+6716305,8/5/2015 18:57,8/5/2015 19:35,3379,2281,62,McCormick Place,3,Shedd Aquarium,Customer,,
+7064880,8/22/2015 19:36,8/22/2015 19:44,4627,469,117,Wilton Ave & Belmont Ave,153,Southport Ave & Wellington Ave,Subscriber,Male,1979.0
+7066889,8/22/2015 22:11,8/22/2015 22:55,3534,2638,267,Lake Park Ave & 47th St,101,63rd St Beach,Customer,,
+6621983,8/1/2015 14:06,8/1/2015 14:26,2254,1216,229,Southport Ave & Roscoe St,299,Halsted St & Roscoe St,Customer,,
+6913734,8/15/2015 11:31,8/15/2015 11:40,507,527,134,Peoria St & Jackson Blvd,88,May St & Randolph St,Customer,,
+6947014,8/16/2015 19:06,8/16/2015 19:27,3636,1257,418,Ellis Ave & 53rd St,424,Museum of Science and Industry,Subscriber,Female,1997.0
+7096379,8/24/2015 16:50,8/24/2015 16:53,1688,178,264,Stetson Ave & South Water St,44,State St & Randolph St,Subscriber,Male,1975.0
+6927696,8/15/2015 20:17,8/15/2015 20:19,1840,79,177,Theater on the Lake,177,Theater on the Lake,Subscriber,Male,1986.0
+6638499,8/2/2015 9:53,8/2/2015 10:00,105,461,254,Pine Grove Ave & Irving Park Rd,323,Sheridan Rd & Lawrence Ave,Subscriber,Male,1981.0
+6864790,8/12/2015 20:23,8/12/2015 20:30,2581,428,20,Sheffield Ave & Kingsbury St,58,Marshfield Ave & Cortland St,Subscriber,Male,1989.0
+6620583,8/1/2015 13:29,8/1/2015 13:52,162,1361,130,Damen Ave & Division St,181,LaSalle St & Illinois St,Subscriber,Female,1985.0
+6898626,8/14/2015 14:50,8/14/2015 14:59,4259,575,33,State St & Van Buren St,51,Clark St & Randolph St,Subscriber,Male,1989.0
+6725083,8/6/2015 9:03,8/6/2015 9:11,3549,446,181,LaSalle St & Illinois St,35,Streeter Dr & Illinois St,Subscriber,Female,1987.0
+6881592,8/13/2015 17:27,8/13/2015 18:03,4721,2215,52,Michigan Ave & Lake St,157,Lake Shore Dr & Wellington Ave,Customer,,
+7110927,8/25/2015 13:40,8/25/2015 13:51,174,681,25,Michigan Ave & Pearson St,211,St. Clair St & Erie St,Customer,,
+6961008,8/17/2015 16:24,8/17/2015 16:34,3681,602,59,Wabash Ave & Roosevelt Rd,42,Wabash Ave & Cermak Rd,Subscriber,Male,1966.0
+7176969,8/29/2015 9:24,8/29/2015 9:31,3621,400,344,Ravenswood Ave & Lawrence Ave,463,Clark St & Berwyn Ave,Subscriber,Male,1990.0
+7052825,8/22/2015 13:15,8/22/2015 13:27,4811,731,84,Union Ave & Grand Ave,346,Ada St & Washington Blvd,Subscriber,Female,1982.0
+6784183,8/8/2015 18:52,8/8/2015 19:18,2972,1555,54,Ogden Ave & Chicago Ave,216,California Ave & Division St,Customer,,
+6814746,8/10/2015 16:01,8/10/2015 16:11,150,616,173,Mies van der Rohe Way & Chicago Ave,35,Streeter Dr & Illinois St,Customer,,
+7145142,8/27/2015 13:06,8/27/2015 13:27,2873,1245,220,Hampden Ct & Diversey Pkwy,99,Lake Shore Dr & Ohio St,Subscriber,Male,1980.0
+6724438,8/6/2015 8:38,8/6/2015 8:49,3731,636,217,May St & Fulton St,36,Franklin St & Jackson Blvd,Subscriber,Male,1976.0
+6779024,8/8/2015 15:51,8/8/2015 16:02,3761,700,18,Wacker Dr & Washington St,38,Clark St & Lake St,Customer,,
+6645209,8/2/2015 14:31,8/2/2015 14:48,224,1035,313,Lakeview Ave & Fullerton Pkwy,138,Clybourn Ave & Division St,Customer,,
+6729520,8/6/2015 13:37,8/6/2015 13:57,1272,1213,176,Clark St & Elm St,73,Jefferson St & Monroe St,Customer,,
+6645189,8/2/2015 14:30,8/2/2015 14:39,1727,519,144,Larrabee St & Webster Ave,177,Theater on the Lake,Subscriber,Male,1985.0
+6982786,8/18/2015 19:05,8/18/2015 19:31,206,1537,195,Columbus Dr & Randolph St,24,Fairbanks Ct & Grand Ave,Customer,,
+6966515,8/17/2015 19:26,8/17/2015 19:42,2555,949,268,Lake Shore Dr & North Blvd,296,Broadway & Belmont Ave,Subscriber,Female,1985.0
+7008534,8/20/2015 10:13,8/20/2015 10:35,4605,1292,76,Lake Shore Dr & Monroe St,341,Adler Planetarium,Customer,,
+7124860,8/26/2015 9:02,8/26/2015 9:10,4311,458,359,Larrabee St & Division St,84,Union Ave & Grand Ave,Subscriber,Male,1988.0
+6805616,8/10/2015 7:05,8/10/2015 7:28,597,1334,129,Blue Island Ave & 18th St,52,Michigan Ave & Lake St,Subscriber,Female,1990.0
+6630485,8/1/2015 18:25,8/1/2015 18:47,4537,1316,247,Shore Drive & 55th St,247,Shore Drive & 55th St,Subscriber,Female,1989.0
+6993178,8/19/2015 14:54,8/19/2015 15:09,1065,898,145,Mies van der Rohe Way & Chestnut St,7,Field Blvd & South Water St,Subscriber,Male,1949.0
+6849207,8/12/2015 8:41,8/12/2015 9:15,3276,2044,43,Michigan Ave & Washington St,268,Lake Shore Dr & North Blvd,Customer,,
+6915013,8/15/2015 12:09,8/15/2015 12:30,2193,1250,199,Wabash Ave & Grand Ave,61,Wood St & Milwaukee Ave,Subscriber,Female,1965.0
+7018449,8/20/2015 18:13,8/20/2015 18:30,1561,1029,244,Ravenswood Ave & Irving Park Rd,330,Lincoln Ave & Addison St,Customer,,
+6966247,8/17/2015 19:14,8/17/2015 19:25,4108,661,260,Kedzie Ave & Milwaukee Ave,258,Logan Blvd & Elston Ave,Subscriber,Male,1983.0
+7146226,8/27/2015 14:21,8/27/2015 14:31,210,594,2,Buckingham Fountain,81,Daley Center Plaza,Subscriber,Male,1971.0
+6744070,8/7/2015 7:22,8/7/2015 7:24,813,86,342,Wolcott Ave & Polk St,261,Hermitage Ave & Polk St,Subscriber,Male,1972.0
+6629727,8/1/2015 17:56,8/1/2015 18:25,3903,1753,35,Streeter Dr & Illinois St,268,Lake Shore Dr & North Blvd,Customer,,
+7087818,8/24/2015 8:35,8/24/2015 8:43,3721,478,241,Morgan St & Polk St,192,Canal St & Adams St,Subscriber,Male,1983.0
+6718147,8/5/2015 20:11,8/5/2015 20:32,4428,1261,251,Clarendon Ave & Leland Ave,157,Lake Shore Dr & Wellington Ave,Customer,,
+6745483,8/7/2015 8:19,8/7/2015 8:25,3732,374,80,Aberdeen St & Monroe St (Madison St),191,Canal St & Monroe St,Subscriber,Male,1986.0
+6617582,8/1/2015 12:08,8/1/2015 16:21,1067,15159,35,Streeter Dr & Illinois St,90,Millennium Park,Customer,,
+6918950,8/15/2015 14:19,8/15/2015 15:16,2227,3431,177,Theater on the Lake,35,Streeter Dr & Illinois St,Customer,,
+6790599,8/9/2015 10:04,8/9/2015 10:14,2480,604,186,Ogden Ave & Race Ave,31,Franklin St & Chicago Ave,Subscriber,Male,1963.0
+6882142,8/13/2015 17:41,8/13/2015 18:25,2125,2673,507,Humboldt Blvd & Armitage Ave,35,Streeter Dr & Illinois St,Customer,,
+6853294,8/12/2015 12:50,8/12/2015 13:09,3358,1114,35,Streeter Dr & Illinois St,85,Michigan Ave & Oak St,Customer,,
+7193398,8/30/2015 14:43,8/30/2015 15:10,2744,1635,35,Streeter Dr & Illinois St,341,Adler Planetarium,Customer,,
+6661378,8/3/2015 12:36,8/3/2015 12:51,3793,885,323,Sheridan Rd & Lawrence Ave,334,Lake Shore Dr & Belmont Ave,Subscriber,Male,1989.0
+6812767,8/10/2015 13:31,8/10/2015 13:46,4525,898,161,Rush St & Superior St,289,Wells St & Concord Pl,Subscriber,Female,1985.0
+6636222,8/2/2015 0:29,8/2/2015 1:15,3142,2772,181,LaSalle St & Illinois St,118,Sedgwick St & North Ave,Customer,,
+7035135,8/21/2015 15:53,8/21/2015 16:00,3941,422,49,Dearborn St & Monroe St,321,Wabash Ave & 8th St,Subscriber,Male,1975.0
+6770978,8/8/2015 11:42,8/8/2015 11:50,4610,493,114,Sheffield Ave & Addison St,153,Southport Ave & Wellington Ave,Customer,,
+6906677,8/14/2015 19:49,8/14/2015 19:58,3296,569,328,Ellis Ave & 58th St,252,Greenwood Ave & 47th St,Subscriber,Male,1981.0
+6627148,8/1/2015 16:32,8/1/2015 16:50,3593,1093,181,LaSalle St & Illinois St,85,Michigan Ave & Oak St,Customer,,
+6651195,8/2/2015 19:05,8/2/2015 19:24,2551,1164,329,Lake Shore Dr & Diversey Pkwy,157,Lake Shore Dr & Wellington Ave,Customer,,
+6865841,8/12/2015 21:31,8/12/2015 21:41,3235,586,156,Clark St & Wellington Ave,312,Clarendon Ave & Gordon Ter,Subscriber,Male,1988.0
+7042019,8/21/2015 20:14,8/21/2015 20:27,64,733,345,Lake Park Ave & 56th St,426,Ellis Ave & 60th St,Subscriber,Male,1989.0
+6672397,8/3/2015 19:42,8/3/2015 19:55,1122,811,127,Lincoln Ave & Fullerton Ave,114,Sheffield Ave & Addison St,Subscriber,Male,1967.0
+6824048,8/11/2015 5:35,8/11/2015 5:40,4502,345,192,Canal St & Adams St,43,Michigan Ave & Washington St,Subscriber,Male,1962.0
+6971755,8/18/2015 9:37,8/18/2015 10:04,4502,1656,25,Michigan Ave & Pearson St,90,Millennium Park,Customer,,
+6855861,8/12/2015 15:16,8/12/2015 15:48,9,1932,249,Montrose Harbor,177,Theater on the Lake,Customer,,
+7087568,8/24/2015 8:27,8/24/2015 8:35,2482,485,46,Wells St & Walton St,74,Kingsbury St & Erie St,Subscriber,Female,1984.0
+6836204,8/11/2015 16:32,8/11/2015 16:45,2887,800,125,Rush St & Hubbard St,291,Wells St & Evergreen Ave,Subscriber,Male,1958.0
+6652434,8/2/2015 20:13,8/2/2015 20:16,4753,155,304,Broadway & Waveland Ave,303,Broadway & Cornelia Ave,Subscriber,Male,1982.0
+6807761,8/10/2015 8:36,8/10/2015 8:41,2700,292,69,Damen Ave & Pierce Ave,58,Marshfield Ave & Cortland St,Subscriber,Male,1987.0
+6648450,8/2/2015 16:49,8/2/2015 17:14,4578,1481,162,Damen Ave & Wellington Ave,100,Orleans St & Merchandise Mart Plaza,Subscriber,Male,1979.0
+6618841,8/1/2015 12:43,8/1/2015 12:56,3078,777,190,Southport Ave & Wrightwood Ave,93,Sheffield Ave & Willow St,Subscriber,Male,1985.0
+6768163,8/8/2015 9:53,8/8/2015 10:09,1139,945,254,Pine Grove Ave & Irving Park Rd,117,Wilton Ave & Belmont Ave,Customer,,
+7197590,8/30/2015 17:24,8/30/2015 19:13,798,6527,36,Franklin St & Jackson Blvd,85,Michigan Ave & Oak St,Customer,,
+6681522,8/4/2015 11:02,8/4/2015 11:11,4197,483,217,May St & Fulton St,73,Jefferson St & Monroe St,Subscriber,Male,1972.0
+6725958,8/6/2015 10:02,8/6/2015 10:18,4428,924,35,Streeter Dr & Illinois St,76,Lake Shore Dr & Monroe St,Customer,,
+7030070,8/21/2015 11:54,8/21/2015 11:56,1464,111,126,Clark St & North Ave,126,Clark St & North Ave,Customer,,
+6867350,8/13/2015 1:30,8/13/2015 1:35,1225,263,267,Lake Park Ave & 47th St,417,Cornell Ave & Hyde Park Blvd,Subscriber,Male,1998.0
+6896843,8/14/2015 13:23,8/14/2015 13:33,3841,616,212,Wells St & Hubbard St,71,Morgan St & Lake St,Subscriber,Male,1992.0
+6782430,8/8/2015 17:44,8/8/2015 18:28,4468,2643,424,Museum of Science and Industry,265,Cottage Grove Ave & Oakwood Blvd,Customer,,
+6926961,8/15/2015 19:35,8/15/2015 19:49,4501,823,268,Lake Shore Dr & North Blvd,177,Theater on the Lake,Customer,,
+7104295,8/25/2015 7:14,8/25/2015 7:20,2295,375,21,Aberdeen St & Jackson Blvd,192,Canal St & Adams St,Subscriber,Male,1972.0
+7147205,8/27/2015 15:20,8/27/2015 15:23,4420,208,133,Kingsbury St & Kinzie St,91,Clinton St & Washington Blvd,Subscriber,Male,1963.0
+7032869,8/21/2015 14:12,8/21/2015 14:34,2318,1274,300,Broadway & Barry Ave,144,Larrabee St & Webster Ave,Customer,,
+6695237,8/4/2015 19:47,8/4/2015 20:52,1034,3857,35,Streeter Dr & Illinois St,97,Museum Campus,Customer,,
+6689220,8/4/2015 17:00,8/4/2015 17:17,1755,1002,228,Damen Ave & Melrose Ave,254,Pine Grove Ave & Irving Park Rd,Subscriber,Male,1991.0
+6837994,8/11/2015 17:17,8/11/2015 17:22,1687,310,36,Franklin St & Jackson Blvd,192,Canal St & Adams St,Subscriber,Female,1978.0
+6654048,8/2/2015 22:33,8/2/2015 22:39,1473,332,210,Ashland Ave & Division St,305,Western Ave & Division St,Subscriber,Male,1986.0
+7065371,8/22/2015 20:02,8/22/2015 20:38,2125,2162,240,Sheridan Rd & Irving Park Rd,334,Lake Shore Dr & Belmont Ave,Customer,,
+6991234,8/19/2015 12:55,8/19/2015 13:00,4292,255,344,Ravenswood Ave & Lawrence Ave,238,Ravenswood Ave & Montrose Ave,Subscriber,Male,1961.0
+7009524,8/20/2015 11:28,8/20/2015 12:04,2093,2160,177,Theater on the Lake,251,Clarendon Ave & Leland Ave,Customer,,
+6718163,8/5/2015 20:12,8/5/2015 20:24,2826,738,225,Halsted St & Dickens Ave,16,Paulina  Ave (Wood St) & North Ave,Subscriber,Female,1983.0
+7016235,8/20/2015 17:13,8/20/2015 17:16,2726,179,318,Southport Ave & Irving Park Rd,240,Sheridan Rd & Irving Park Rd,Subscriber,Female,1991.0
+7075906,8/23/2015 15:34,8/23/2015 16:24,332,2966,484,Monticello Ave & Irving Park Rd,249,Montrose Harbor,Customer,,
+6811871,8/10/2015 12:41,8/10/2015 12:54,3080,798,177,Theater on the Lake,220,Hampden Ct & Diversey Pkwy,Customer,,
+6618504,8/1/2015 12:33,8/1/2015 12:42,2018,488,117,Wilton Ave & Belmont Ave,240,Sheridan Rd & Irving Park Rd,Subscriber,Male,1986.0
+7074721,8/23/2015 14:51,8/23/2015 15:31,3661,2393,273,Michigan Ave & 18th St,273,Michigan Ave & 18th St,Customer,,
+6993845,8/19/2015 15:29,8/19/2015 15:44,3694,902,199,Wabash Ave & Grand Ave,291,Wells St & Evergreen Ave,Subscriber,Male,1955.0
+6704857,8/5/2015 11:27,8/5/2015 11:47,804,1242,116,Western Ave & Winnebago Ave,503,Drake Ave & Fullerton Ave,Customer,,
+6789740,8/9/2015 8:47,8/9/2015 9:03,3377,992,273,Michigan Ave & 18th St,181,LaSalle St & Illinois St,Subscriber,Male,1989.0
+7048478,8/22/2015 11:01,8/22/2015 11:23,1040,1312,268,Lake Shore Dr & North Blvd,7,Field Blvd & South Water St,Customer,,
+7161467,8/28/2015 9:53,8/28/2015 10:01,4283,482,44,State St & Randolph St,142,McClurg Ct & Erie St,Subscriber,Male,1973.0
+6850893,8/12/2015 10:25,8/12/2015 10:44,1503,1089,35,Streeter Dr & Illinois St,53,Wells St & Erie St,Subscriber,Male,1993.0
+7101118,8/24/2015 19:28,8/24/2015 19:59,1347,1829,302,Sheffield Ave & Wrightwood Ave,198,Green St (Halsted St) & Madison St,Customer,,
+6741035,8/6/2015 21:09,8/6/2015 21:13,249,241,482,Campbell Ave & Montrose Ave,239,Western Ave & Leland Ave,Subscriber,Female,1955.0
+6722376,8/6/2015 7:29,8/6/2015 7:45,370,969,141,Clark St & Lincoln Ave,51,Clark St & Randolph St,Subscriber,Female,1990.0
+7212563,8/31/2015 16:03,8/31/2015 16:25,1269,1323,283,LaSalle St & Jackson Blvd,143,Sedgwick St & Webster Ave,Subscriber,Male,1970.0
+7012493,8/20/2015 14:44,8/20/2015 15:00,1990,955,248,Woodlawn Ave & 55th St,417,Cornell Ave & Hyde Park Blvd,Customer,,
+6712260,8/5/2015 17:11,8/5/2015 17:27,603,1016,47,State St & Kinzie St,29,Noble St & Milwaukee Ave,Subscriber,Male,1983.0
+6972096,8/18/2015 10:04,8/18/2015 10:15,805,689,80,Aberdeen St & Monroe St (Madison St),197,Michigan Ave & Madison St,Subscriber,Male,1963.0
+6683913,8/4/2015 13:13,8/4/2015 13:21,2303,514,51,Clark St & Randolph St,161,Rush St & Superior St,Subscriber,Male,1991.0
+7119911,8/25/2015 20:55,8/25/2015 20:58,2118,207,327,Sheffield Ave & Webster Ave,127,Lincoln Ave & Fullerton Ave,Subscriber,Male,1993.0
+6710266,8/5/2015 16:16,8/5/2015 16:29,3765,822,321,Wabash Ave & 8th St,199,Wabash Ave & Grand Ave,Subscriber,Male,1946.0
+6860949,8/12/2015 17:58,8/12/2015 18:07,4684,518,42,Wabash Ave & Cermak Rd,184,State St & 35th St,Subscriber,Male,1964.0
+7137135,8/26/2015 20:50,8/26/2015 20:54,4158,274,81,Daley Center Plaza,125,Rush St & Hubbard St,Subscriber,Male,1983.0
+6648028,8/2/2015 16:30,8/2/2015 17:34,266,3847,76,Lake Shore Dr & Monroe St,35,Streeter Dr & Illinois St,Customer,,
+7038837,8/21/2015 17:49,8/21/2015 18:06,4034,1014,209,Normal Ave & Archer Ave,90,Millennium Park,Subscriber,Male,1980.0
+7178955,8/29/2015 12:26,8/29/2015 12:38,4510,749,76,Lake Shore Dr & Monroe St,35,Streeter Dr & Illinois St,Customer,,
+7086439,8/24/2015 7:45,8/24/2015 8:06,2695,1289,174,Canal St & Madison St,211,St. Clair St & Erie St,Subscriber,Male,1989.0
+6676037,8/4/2015 6:43,8/4/2015 6:47,2926,279,346,Ada St & Washington Blvd,134,Peoria St & Jackson Blvd,Subscriber,Female,1980.0
+6820618,8/10/2015 19:18,8/10/2015 19:28,1309,606,328,Ellis Ave & 58th St,417,Cornell Ave & Hyde Park Blvd,Subscriber,Female,1987.0
+6865231,8/12/2015 20:48,8/12/2015 21:09,2429,1273,121,Blackstone Ave & Hyde Park Blvd,416,Dorchester Ave & 49th St,Subscriber,Male,1998.0
+6929906,8/15/2015 23:24,8/15/2015 23:41,4805,1014,56,Desplaines St & Kinzie St,38,Clark St & Lake St,Customer,,
+6875961,8/13/2015 13:45,8/13/2015 14:47,1128,3722,135,Halsted St & 21st St,284,Michigan Ave & Jackson Blvd,Customer,,
+6770921,8/8/2015 11:40,8/8/2015 11:52,4355,765,174,Canal St & Madison St,25,Michigan Ave & Pearson St,Subscriber,Male,1996.0
+7209371,8/31/2015 12:44,8/31/2015 13:21,36,2239,177,Theater on the Lake,94,Clark St & Armitage Ave,Customer,,
+7068909,8/23/2015 7:57,8/23/2015 8:03,2659,379,90,Millennium Park,2,Buckingham Fountain,Customer,,
+6630961,8/1/2015 18:45,8/1/2015 19:05,4115,1179,85,Michigan Ave & Oak St,34,Cannon Dr & Fullerton Ave,Customer,,
+6740604,8/6/2015 20:40,8/6/2015 20:46,4200,326,322,Kimbark Ave & 53rd St,420,Ellis Ave & 55th St,Subscriber,Female,1978.0
+7198873,8/30/2015 18:18,8/30/2015 18:52,3936,2073,142,McClurg Ct & Erie St,177,Theater on the Lake,Customer,,
+6683893,8/4/2015 13:11,8/4/2015 13:16,1559,311,71,Morgan St & Lake St,80,Aberdeen St & Monroe St (Madison St),Subscriber,Male,1976.0
